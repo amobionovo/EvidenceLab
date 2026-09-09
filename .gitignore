@@ -1,0 +1,41 @@
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+*credentials*.json
+*token*.json
+.secrets/
+secrets/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# Editors, OS metadata, and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+desktop.ini
+~$*
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.log
+*.lnk
+~WRL*

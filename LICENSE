@@ -1,0 +1,24 @@
+EvidenceLab licensing
+====================
+
+Copyright (c) 2026 Dr. Amobi Andrew Onovo, PhD, MPH
+
+Code, including Python code cells in notebooks, is licensed under the MIT
+License in LICENSE-MIT.
+
+Educational text, notebook Markdown cells, explanatory tables and figures,
+and infographic images are licensed under the Creative Commons Attribution
+4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+The governing CC BY 4.0 legal terms are available at:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+These licenses apply to the respective components, rather than offering a
+choice of either license for every component. Third-party software and
+materials retain their respective licenses.
+
+Suggested attribution for educational materials:
+EvidenceLab, Lesson 01: 95% Confidence Interval vs 95% Credible Interval,
+by Dr. Amobi Andrew Onovo, PhD, MPH, licensed under CC BY 4.0.
+Include a link to the source and license and indicate any changes.
