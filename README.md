@@ -1,8 +1,14 @@
+![EvidenceLab — See it. Understand it. Run it. Open lessons in statistics and data science.](assets/brand/evidencelab-banner.png)
+
 # EvidenceLab
 
 ## See it. Understand it. Run it.
 
 EvidenceLab is an open educational project designed to make quantitative methods easier to understand, interpret, and apply.
+
+[![Open Lesson 01 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/01-confidence-vs-credible-interval/confidence_vs_credible_intervals.ipynb)
+
+[Start Lesson 01](lessons/01-confidence-vs-credible-interval/README.md) · [View the notebook](lessons/01-confidence-vs-credible-interval/confidence_vs_credible_intervals.ipynb)
 
 Each lesson combines:
 

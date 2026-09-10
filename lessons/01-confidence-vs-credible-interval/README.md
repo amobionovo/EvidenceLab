@@ -1,3 +1,5 @@
+[![EvidenceLab Lesson 01: 95% confidence interval versus 95% credible interval. Same data. Different questions. Different meaning. Run the notebook in Colab.](../../assets/social/lesson-01-linkedin.png)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/01-confidence-vs-credible-interval/confidence_vs_credible_intervals.ipynb)
+
 # EvidenceLab #01: 95% Confidence Interval vs 95% Credible Interval
 
 **Same data. Different questions. Different meaning.**
