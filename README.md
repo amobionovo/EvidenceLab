@@ -12,8 +12,8 @@ EvidenceLab is an open educational project designed to make quantitative methods
 
 Each lesson combines:
 
-- **👁️ See it:** A visual explainer that makes the central idea intuitive.
-- **🧠 Understand it:** A plain-language explanation of what the method means, what it does not mean, and why the distinction matters.
+- **See it:** A visual explainer that makes the central idea intuitive.
+- **Understand it:** A plain-language explanation of what the method means, what it does not mean, and why the distinction matters.
 - **💻 Run it:** A reproducible Python notebook with simulations, worked examples, visualizations, and experiments that learners can modify themselves.
 
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
