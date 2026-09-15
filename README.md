@@ -31,11 +31,11 @@ Learn with two hands-on tracks: simulate MCAR, MAR and MNAR with known truth, th
 
 ![EvidenceLab Lesson 02 missing-data infographic](lessons/02-missing-data/assets/missing_data_infographic.png)
 
-### Lesson 02 video preview
+### Watch Lesson 02
 
-![Why is your data missing? EvidenceLab Lesson 02 video preview](lessons/02-missing-data/assets/missing_data_video_thumbnail.png)
+[![Why is your data missing? Watch EvidenceLab Lesson 02 on YouTube](lessons/02-missing-data/assets/missing_data_video_thumbnail.png)](https://youtu.be/FQw8KHLwz7E)
 
-**Video publication pending.**
+[Watch the missing-data explainer on YouTube](https://youtu.be/FQw8KHLwz7E).
 
 ## Lesson 01: 95% Confidence Interval vs 95% Credible Interval
 

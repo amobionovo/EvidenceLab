@@ -44,11 +44,11 @@ Track 1 requires no uploaded dataset. Track 2 needs the teaching mirror or a com
 
 The notebook contains interactive charts and writes analysis outputs to `outputs/`. GitHub's static notebook view does not provide the full interactive experience; use Colab to execute it. Fixed seeds support reproducibility, but changed parameters or package versions can change results. The infographic's numerical charts are simulation benchmarks; they are not clinical findings.
 
-## Video preview
+## Watch the explainer
 
-![EvidenceLab Lesson 02 video thumbnail: Why is your data missing?](assets/missing_data_video_thumbnail.png)
+[![EvidenceLab Lesson 02: Why is your data missing? Watch on YouTube](assets/missing_data_video_thumbnail.png)](https://youtu.be/FQw8KHLwz7E)
 
-**Video publication pending.** The approved explainer is complete; a YouTube link will be added after publication.
+[Watch the missing-data explainer on YouTube](https://youtu.be/FQw8KHLwz7E), then run the notebook to try both hands-on tracks.
 
 ## Takeaway
 
