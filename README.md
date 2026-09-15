@@ -19,6 +19,24 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 02: Missing Data in Real Life
+
+**See the pattern. Before you fill the gap.**
+
+Learn with two hands-on tracks: simulate MCAR, MAR and MNAR with known truth, then investigate missingness in a Framingham teaching dataset. Compare methods, stress-test assumptions, and prevent machine-learning leakage.
+
+[![Open Lesson 02 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/02-missing-data/missing_data.ipynb)
+
+[Explore Lesson 02](lessons/02-missing-data/README.md) · [View the notebook](lessons/02-missing-data/missing_data.ipynb)
+
+![EvidenceLab Lesson 02 missing-data infographic](lessons/02-missing-data/assets/missing_data_infographic.png)
+
+### Lesson 02 video preview
+
+![Why is your data missing? EvidenceLab Lesson 02 video preview](lessons/02-missing-data/assets/missing_data_video_thumbnail.png)
+
+**Video publication pending.**
+
 ## Lesson 01: 95% Confidence Interval vs 95% Credible Interval
 
 ### Same 95%. Different meaning.
@@ -89,7 +107,7 @@ EvidenceLab's planned topics include epidemiology, biostatistics, Bayesian stati
 
 EvidenceLab is designed for students, researchers, clinicians, epidemiologists, biostatisticians, public health professionals, program managers, data scientists, and anyone interested in understanding quantitative evidence.
 
-## Reproducibility
+## Lesson 01 reproducibility
 
 - Python is used throughout, with NumPy, pandas, Matplotlib, and SciPy.
 - Random seeds are fixed: `20260909` for the example study and `20260910` for repeated studies.
@@ -105,6 +123,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | Lesson | Topic | Materials |
 | --- | --- | --- |
 | 01 | 95% Confidence Interval vs 95% Credible Interval | [Explanation, infographic, and notebook](lessons/01-confidence-vs-credible-interval/README.md) |
+| 02 | Missing Data in Real Life | [Explanation, infographic, and notebook](lessons/02-missing-data/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 
