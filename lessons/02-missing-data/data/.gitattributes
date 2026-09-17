@@ -1,0 +1,2 @@
+# Preserve the published dataset bytes used by the notebook checksum.
+framingham.csv -text
