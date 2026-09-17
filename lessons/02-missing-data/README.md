@@ -35,12 +35,14 @@ Follow **MAP → QUESTION → MECHANISM → METHOD → STRESS-TEST → MODEL →
 
 1. Open the notebook in Colab.
 2. Select **Runtime → Run all**. The setup cell installs missing packages.
-3. Keep the defaults for a first run: simulation first, then the pinned, checksum-checked Framingham teaching mirror.
+3. Keep the defaults for a first run: simulation first, then the checksum-checked Framingham CSV included in this repository.
 4. To supply your own compatible CSV, set `USE_UPLOAD = True` and use Colab's file picker.
 5. Set `RUN_FRAMINGHAM = False` to explore simulation only.
 6. Change a parameter, rerun, and compare the charts and tables.
 
-Track 1 requires no uploaded dataset. Track 2 needs the teaching mirror or a compatible CSV. If the mirror is unavailable, the notebook reports this and Track 1 remains usable. Source attribution and the pinned mirror URL are documented inside the notebook. No raw CSV is redistributed in this lesson folder.
+Track 1 requires no uploaded dataset. Track 2 automatically downloads the companion CSV from this repository in Colab, or uses a local companion file or your upload. If the download is unavailable, the notebook reports this and Track 1 remains usable.
+
+[View the Framingham CSV](data/framingham.csv) · [Download the CSV](https://raw.githubusercontent.com/amobionovo/EvidenceLab/main/lessons/02-missing-data/data/framingham.csv) · [Dataset provenance](data/README.md)
 
 The notebook contains interactive charts and writes analysis outputs to `outputs/`. GitHub's static notebook view does not provide the full interactive experience; use Colab to execute it. Fixed seeds support reproducibility, but changed parameters or package versions can change results. The infographic's numerical charts are simulation benchmarks; they are not clinical findings.
 
