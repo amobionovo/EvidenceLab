@@ -19,6 +19,16 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 03: Competing Risks
+
+**When Another Event Gets There First.** Define the event, identify what can happen first, choose the estimand, then choose the model.
+
+[![Open Lesson 03 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/03-competing-risks/competing_risks.ipynb)
+
+[Explore Lesson 03](lessons/03-competing-risks/README.md) · [View the notebook](lessons/03-competing-risks/competing_risks.ipynb)
+
+![EvidenceLab #03 video preview — YouTube publication pending](lessons/03-competing-risks/assets/competing_risks_thumbnail.png)
+
 ## Lesson 02: Missing Data in Real Life
 
 **See the pattern. Before you fill the gap.**
