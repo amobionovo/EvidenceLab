@@ -51,3 +51,7 @@ LTFU does not prevent death biologically. It may be informative missing outcome 
 - [cmprsk manual](https://cran.r-project.org/web/packages/cmprsk/cmprsk.pdf).
 
 Core message: **Define the event → identify what can happen first → choose the estimand → then choose the model. Different models answer different questions.**
+
+## Accessibility revision — 21 September 2026
+
+The existing notebook now has 51 cells, including 24 code cells. New output cells translate the fitted KM/CIF and Cox results and the three scenario probabilities into plain language. Simulation and direct Aalen–Johansen helper functions are unchanged. Local records, full-precision results, Cox and diagnostic tables, scenario results and chart coordinates exactly match the previously validated release. A fresh Google Colab Run all completed all 24 code cells; its generated interpretations and numerical results were checked against the reference. See [revision validation](accessibility_v2_validation.json). Fine–Gray remains conceptual.
