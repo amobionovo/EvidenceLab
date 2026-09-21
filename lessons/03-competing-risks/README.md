@@ -18,6 +18,10 @@ Different models answer different questions.
 
 No upload, patient data, API key or Drive connection is required. The first cell installs lifelines 0.30.3. All data are simulated; allow a few minutes for the lesson to run. Download `evidencelab03_outputs` before your temporary runtime expires.
 
+## Reading the notebook
+
+Start with the definitions, plots and plain-language interpretations. Technical details about the simulation, model diagnostics and independent arithmetic are clearly labelled; all checks still run automatically. The notebook includes readable table labels, output-driven interpretations, a prediction exercise, collapsible answers and a quick reference. No extra widget package is required.
+
 ## What you will learn
 
 - Define time zero, event of interest, competing event and censoring.
@@ -59,9 +63,9 @@ YouTube publication is pending. A video link will be added after publication.
 
 ## Reproducibility
 
-Seed: 201703. Clean Google Colab Run all: 20 of 20 code cells completed on 20 September 2026, with no errors. The learner source matched the downloaded executed notebook. Production cross-checks compared CIF/KM against scikit-survival, Cox against statsmodels, and direct risk-set recursion against hand-calculated cases. Package versions, simulation parameters, full-precision results and chart coordinates are exported by the notebook.
+Seed: 201703. Clean Google Colab Run all: 24 of 24 code cells completed on 21 September 2026, with no errors. The learner source matched the downloaded executed notebook. Production cross-checks compared CIF/KM against scikit-survival, Cox against statsmodels, and direct risk-set recursion against hand-calculated cases. Package versions, simulation parameters, full-precision results and chart coordinates are exported by the notebook.
 
-[Colab validation](colab_validation.json) · [Independent scientific checks](independent_science_checks.json) · [QR validation](qr_validation.json)
+[Accessibility revision and numerical equivalence](accessibility_v2_validation.json) · [Colab validation](colab_validation.json) · [Independent scientific checks](independent_science_checks.json) · [QR validation](qr_validation.json)
 
 Dr. Amobi Andrew Onovo, PhD, MPH
 
