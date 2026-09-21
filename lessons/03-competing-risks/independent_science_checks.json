@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "checks": {
+    "scikit_survival_vs_lifelines_cif_relapse_max_error": 2.498001805406602e-16,
+    "scikit_survival_vs_lifelines_cif_death_max_error": 9.43689570931383e-16,
+    "km_independent_max_error": 1.1879386363489175e-14,
+    "statsmodels_vs_lifelines_cox_HR_max_error": 1.3920778063614136e-07,
+    "tied_event_hand_case": "PASS: final CIF equals .6/.4",
+    "analytic_exponential_truth": {
+      "empirical": 0.32392,
+      "truth": 0.32219098966596127,
+      "absolute_error": 0.0017290103340387164
+    },
+    "paired_scenario_order": "PASS",
+    "approved_infographic_unchanged_sha256": "a4373873994e94fa2993cb4a63fcb12139f70acd98fd0d256d48ab18b4daa95b"
+  },
+  "fine_gray": "Conceptual only. No numerical sHR produced or claimed."
+}
