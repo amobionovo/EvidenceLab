@@ -45,7 +45,7 @@ The executable analysis uses Kaplan–Meier, Aalen–Johansen cumulative inciden
 
 During Dr. Amobi Andrew Onovo's PhD, Professor Olivia Keiser asked about competing risks. He studied the method and incorporated competing-risk regression into work presented at IAS 2017 in Paris, 23–26 July 2017. Abstract MOPEB0307 appears on printed page 79 of the [IAS abstract book](https://www.ias2017.org/Portals/1/Files/IAS2017_LO.compressed4c6a.pdf?fileticket=m3LSDs1z4QY%3d&tabid=577&portalid=1).
 
-That historical analysis accounted for loss to follow-up using competing-risk regression. LTFU does not biologically prevent death; its analytic role depends on the estimand and study design. Missing vital status may require tracing, linkage, sensitivity analysis or a multi-state model. The supervisor conversation is the author's account. No claim that a method caused conference acceptance is made.
+That historical analysis accounted for loss to follow-up using competing-risk regression. LTFU does not biologically prevent death; its analytic role depends on the estimand and study design. Missing vital status may require tracing, linkage, sensitivity analysis or a multi-state model. The supervisor conversation is the author's account.
 
 ## Infographic
 
