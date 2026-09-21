@@ -27,7 +27,9 @@ Epidemiology | Data Science | AI for Global Health
 
 [Explore Lesson 03](lessons/03-competing-risks/README.md) · [View the notebook](lessons/03-competing-risks/competing_risks.ipynb)
 
-![EvidenceLab #03 video preview — YouTube publication pending](lessons/03-competing-risks/assets/competing_risks_thumbnail.png)
+[![Watch EvidenceLab #03 on YouTube](lessons/03-competing-risks/assets/competing_risks_thumbnail.png)](https://youtu.be/K4AsjUVrxmk)
+
+[Watch the competing-risks explainer on YouTube](https://youtu.be/K4AsjUVrxmk).
 
 ## Lesson 02: Missing Data in Real Life
 
