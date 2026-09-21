@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "original_sha256": "a4373873994e94fa2993cb4a63fcb12139f70acd98fd0d256d48ab18b4daa95b",
+  "updated_sha256": "8834f32c5610cf77aaa434e6ae0f2443784d99f3c2580080b182e1ea36159eca",
+  "changed_pixels": 43260,
+  "outside_qr_patch_changed_pixels": 0,
+  "patch_xywh": [
+    2606,
+    3880,
+    216,
+    216
+  ],
+  "decoded_from_final_full_image": [
+    "https://www.ias2017.org/Portals/1/Files/IAS2017_LO.compressed4c6a.pdf?fileticket=m3LSDs1z4QY%3d&tabid=577&portalid=1",
+    "https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/03-competing-risks/competing_risks.ipynb"
+  ],
+  "downscale_checks": {
+    "2048": {
+      "colab_decodes": true,
+      "ias_decodes": true
+    },
+    "1536": {
+      "colab_decodes": true,
+      "ias_decodes": true
+    },
+    "1280": {
+      "colab_decodes": true,
+      "ias_decodes": true
+    },
+    "1080": {
+      "colab_decodes": true,
+      "ias_decodes": true
+    }
+  },
+  "scope": "Only the bottom notebook QR changed, per follow-up. Original file, author photograph, IAS QR, text and charts preserved."
+}

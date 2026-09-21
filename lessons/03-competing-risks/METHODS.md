@@ -1,6 +1,6 @@
 # Scientific methods and claim ledger
 
-The final supplied infographic is immutable. SHA-256: `a4373873994e94fa2993cb4a63fcb12139f70acd98fd0d256d48ab18b4daa95b`. Its poster values (0.42, 0.28, 0.24) are not calibration targets. Every new chart and numerical claim comes from the notebook's outputs.
+The original final supplied infographic remains unchanged. A separate distribution copy corrects only the notebook QR, as subsequently requested; no artwork or scientific content was redesigned. SHA-256: `a4373873994e94fa2993cb4a63fcb12139f70acd98fd0d256d48ab18b4daa95b`. Its poster values (0.42, 0.28, 0.24) are not calibration targets. Every new chart and numerical claim comes from the notebook's outputs.
 
 ## Definitions and estimands
 
@@ -24,7 +24,7 @@ Scenario analysis reuses seed, covariates, primary clocks and censoring draws, v
 
 ## Independent tests
 
-See `07_validation/independent_validation.py` and its JSON receipt:
+See [independent checks](independent_science_checks.json), [clean Colab validation](colab_validation.json), and [QR-only change validation](qr_validation.json):
 - lifelines CIF vs scikit-survival competing-risk estimator;
 - lifelines KM vs scikit-survival KM;
 - lifelines Cox vs statsmodels PHReg with Efron ties;

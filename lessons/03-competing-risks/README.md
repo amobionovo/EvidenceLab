@@ -47,6 +47,10 @@ During Dr. Amobi Andrew Onovo's PhD, Professor Olivia Keiser asked about competi
 
 That historical analysis accounted for loss to follow-up using competing-risk regression. LTFU does not biologically prevent death; its analytic role depends on the estimand and study design. Missing vital status may require tracing, linkage, sensitivity analysis or a multi-state model. The supervisor conversation is the author's account. No claim that a method caused conference acceptance is made.
 
+## Infographic
+
+[Download the infographic with both verified QR codes](assets/competing_risks_infographic.png). Only the bottom notebook QR was corrected; the approved artwork and scientific content are preserved.
+
 ## Watch the lesson
 
 ![EvidenceLab #03 video preview](assets/competing_risks_thumbnail.png)
@@ -56,6 +60,8 @@ YouTube publication is pending. A video link will be added after publication.
 ## Reproducibility
 
 Seed: 201703. Clean Google Colab Run all: 20 of 20 code cells completed on 20 September 2026, with no errors. The learner source matched the downloaded executed notebook. Production cross-checks compared CIF/KM against scikit-survival, Cox against statsmodels, and direct risk-set recursion against hand-calculated cases. Package versions, simulation parameters, full-precision results and chart coordinates are exported by the notebook.
+
+[Colab validation](colab_validation.json) · [Independent scientific checks](independent_science_checks.json) · [QR validation](qr_validation.json)
 
 Dr. Amobi Andrew Onovo, PhD, MPH
 

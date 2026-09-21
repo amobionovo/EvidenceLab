@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "source_sha256": "5a5b15443d23ae4ae82cc9215eed7a979e230e5c131166b0e818101917481c8a",
+  "executed_sha256": "bb649d44c5407e5ca4580eb180abb91e8871ed72511a92bf632eb628599913ef",
+  "source_cells_equal": true,
+  "completed_code_cells": 20,
+  "errors": 0,
+  "environment": {
+    "seed": 201703,
+    "parameters": {
+      "n": 2500,
+      "horizon_months": 60.0,
+      "primary_rate": 0.009,
+      "competing_rate": 0.01,
+      "censor_rate": 0.0015,
+      "competing_multiplier": 1.0
+    },
+    "generated_utc": "2026-09-20T06:05:52.260392+00:00",
+    "packages": {
+      "numpy": "2.1.3",
+      "pandas": "2.2.3",
+      "scipy": "1.16.3",
+      "matplotlib": "3.10.0",
+      "lifelines": "0.30.3"
+    },
+    "fine_gray": "conceptual only; no fitted sHR",
+    "data": "entirely simulated"
+  },
+  "displayed_summary_agrees_with_local_to_6_decimals": true,
+  "evidence": "Colab UI upload into a fresh Python 3 runtime, Run all, download .ipynb; saved outputs inspected.",
+  "scope": "Full precision independent estimator checks are separately recorded in independent_science_checks.json."
+}
