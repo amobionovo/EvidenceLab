@@ -57,9 +57,9 @@ That historical analysis accounted for loss to follow-up using competing-risk re
 
 ## Watch the lesson
 
-![EvidenceLab #03 video preview](assets/competing_risks_thumbnail.png)
+[![Watch EvidenceLab #03 on YouTube](assets/competing_risks_thumbnail.png)](https://youtu.be/K4AsjUVrxmk)
 
-YouTube publication is pending. A video link will be added after publication.
+[Watch the 4-minute 24-second explainer on YouTube](https://youtu.be/K4AsjUVrxmk). Then run the notebook to explore the same simulated analysis.
 
 ## Reproducibility
 
