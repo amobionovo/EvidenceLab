@@ -1,0 +1,21 @@
+{
+  "seed": 201703,
+  "parameters": {
+    "n": 2500,
+    "horizon_months": 60.0,
+    "primary_rate": 0.009,
+    "competing_rate": 0.01,
+    "censor_rate": 0.0015,
+    "competing_multiplier": 1.0
+  },
+  "generated_utc": "2026-09-20T05:51:19.505289+00:00",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.3",
+    "lifelines": "0.30.3"
+  },
+  "fine_gray": "conceptual only; no fitted sHR",
+  "data": "entirely simulated"
+}
