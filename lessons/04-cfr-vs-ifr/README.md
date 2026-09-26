@@ -6,7 +6,9 @@
 
 [![Open Lesson 04 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/04-cfr-vs-ifr/EvidenceLab_04_CFR_vs_IFR_FINAL.ipynb)
 
-[![EvidenceLab 04: 50 deaths, 1,000 detected cases and 10,000 estimated infections](assets/cfr_vs_ifr_thumbnail.png)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/04-cfr-vs-ifr/EvidenceLab_04_CFR_vs_IFR_FINAL.ipynb)
+[![EvidenceLab 04: 50 deaths, 1,000 detected cases and 10,000 estimated infections](assets/cfr_vs_ifr_thumbnail.png)](https://youtu.be/GtSMh6veBxo)
+
+[Watch the CFR vs IFR explainer on YouTube](https://youtu.be/GtSMh6veBxo).
 
 *Synthetic completed-cohort example with complete death ascertainment. Person icons are illustrative;
 the stated counts determine the percentages. CFR and IFR are proportions, commonly called fatality rates.*
@@ -50,7 +52,7 @@ Its synthetic survey analysis is a separate teaching example, not a replication 
 - [Thumbnail](assets/cfr_vs_ifr_thumbnail.png)
 - [Companion infographic](assets/cfr_vs_ifr_infographic.png)
 
-The video publication link is pending.
+[Watch EvidenceLab #04 on YouTube](https://youtu.be/GtSMh6veBxo).
 
 **Before interpreting a fatality percentage, ask who entered the denominator.**
 
