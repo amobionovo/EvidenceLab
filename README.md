@@ -28,7 +28,9 @@ or 0.5% among 10,000 estimated infections. Learn how to obtain and evaluate the 
 
 [Explore Lesson 04](lessons/04-cfr-vs-ifr/README.md) · [View the notebook](lessons/04-cfr-vs-ifr/EvidenceLab_04_CFR_vs_IFR_FINAL.ipynb)
 
-[![EvidenceLab 04: CFR versus IFR](lessons/04-cfr-vs-ifr/assets/cfr_vs_ifr_thumbnail.png)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/04-cfr-vs-ifr/EvidenceLab_04_CFR_vs_IFR_FINAL.ipynb)
+[![EvidenceLab 04: CFR versus IFR](lessons/04-cfr-vs-ifr/assets/cfr_vs_ifr_thumbnail.png)](https://youtu.be/GtSMh6veBxo)
+
+[Watch the CFR vs IFR explainer on YouTube](https://youtu.be/GtSMh6veBxo).
 
 *Synthetic example with completed follow-up; person icons are illustrative.*
 
