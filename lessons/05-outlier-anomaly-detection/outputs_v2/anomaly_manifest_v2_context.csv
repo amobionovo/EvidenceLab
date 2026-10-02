@@ -1,0 +1,2 @@
+date,corrected,expected,residual,robust_residual_score,sustained_alert,global_iqr_flag
+2025-09-01,1690,1219.936917,470.0630831,20.2370253,True,False

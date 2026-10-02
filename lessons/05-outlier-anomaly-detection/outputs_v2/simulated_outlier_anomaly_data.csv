@@ -1,0 +1,37 @@
+date,observed,expected_design,source_verified,reason,action
+2023-01-01,992,1000,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-02-01,1098,1065,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-03-01,1137,1115.262794,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-04-01,1128,1140,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-05-01,1101,1135.262794,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-06-01,1131,1105,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-07-01,1031,1060,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-08-01,983,1015,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-09-01,890,984.7372056,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-10-01,984,980,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-11-01,973,1004.737206,,Routine month; no specific incident documented,Retain; routine monitoring
+2023-12-01,1034,1055,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-01-01,1122,1120,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-02-01,1219,1185,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-03-01,12500,1235.262794,1250,"Confirmed transcription: 12,500 entered instead of 1,250","Correct to 1,250; retain original"
+2024-04-01,1284,1260,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-05-01,1246,1255.262794,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-06-01,1313,1225,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-07-01,1172,1180,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-08-01,1169,1135,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-09-01,1064,1104.737206,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-10-01,1031,1100,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-11-01,1127,1124.737206,,Routine month; no specific incident documented,Retain; routine monitoring
+2024-12-01,2050,1175,,Documented campaign with verified additional enrolments,Keep; model campaign separately if needed
+2025-01-01,1181,1240,,Routine month; no specific incident documented,Retain; routine monitoring
+2025-02-01,1294,1305,,Routine month; no specific incident documented,Retain; routine monitoring
+2025-03-01,1414,1355.262794,,Routine month; no specific incident documented,Retain; routine monitoring
+2025-04-01,1425,1380,,Routine month; no specific incident documented,Retain; routine monitoring
+2025-05-01,1347,1375.262794,,Routine month; no specific incident documented,Retain; routine monitoring
+2025-06-01,1405,1345,,Routine month; no specific incident documented,Retain; routine monitoring
+2025-07-01,1681,1300,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor
+2025-08-01,1675,1255,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor
+2025-09-01,1690,1224.737206,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor
+2025-10-01,1586,1220,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor
+2025-11-01,1733,1244.737206,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor
+2025-12-01,1683,1295,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor

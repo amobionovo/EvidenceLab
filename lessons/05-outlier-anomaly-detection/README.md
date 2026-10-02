@@ -4,11 +4,15 @@
 
 An unusual value may be an error, a rare valid event, or an early-warning signal. Learn to calculate flags, verify their causes and document a defensible response.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL_v2.ipynb)
 
-[Open the notebook](EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb) · [Infographic PDF](assets/EvidenceLab_05_Infographic_FINAL.pdf)
+[Open the notebook](EvidenceLab_05_Outliers_Anomalies_FINAL_v2.ipynb) · [Infographic PDF](assets/EvidenceLab_05_Infographic_FINAL.pdf)
 
-Choose **Runtime → Run all**. The notebook generates all data and exports using NumPy, pandas and Matplotlib. No uploads, API keys, installation cells or prompts are required. Two fresh local Jupyter kernels passed; hosted Colab execution is recorded separately when verified.
+Choose **Runtime → Run all**. The notebook generates all data and exports using NumPy, pandas and Matplotlib. No uploads, API keys, installation cells or prompts are required. Version 2 passed two fresh local kernels and hosted Colab Restart session and run all, with zero cell errors or warnings. At phone portrait width, the Colab editor requires horizontal scrolling; desktop or landscape is recommended.
+
+## Notebook v2
+
+The controlled teaching upgrade adds a beginner opening, eight-step roadmap, labeled boxplot anatomy, clearer interpretations and a decision aid. Original analyses and results are preserved. [QA report](EvidenceLab_05_NOTEBOOK_QA_FINAL.md) · [Original notebook](EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb) · [V2 exports](outputs_v2/). The existing infographic QR continues to open the original notebook; use the Colab button above for v2.
 
 ## What you will learn
 

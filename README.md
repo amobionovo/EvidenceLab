@@ -38,9 +38,9 @@ or 0.5% among 10,000 estimated infections. Learn how to obtain and evaluate the 
 
 **When One Number Does Not Belong.** Detect unusual values, verify their context, compare treatments and monitor meaningful changes.
 
-[![Open Lesson 05 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb)
+[![Open Lesson 05 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL_v2.ipynb)
 
-[Explore Lesson 05](lessons/05-outlier-anomaly-detection/README.md) · [View the notebook](lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb)
+[Explore Lesson 05](lessons/05-outlier-anomaly-detection/README.md) · [View the notebook](lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL_v2.ipynb)
 
 ![Lesson 05 infographic](lessons/05-outlier-anomaly-detection/assets/EvidenceLab_05_Infographic_FINAL.png)
 
