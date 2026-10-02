@@ -12,7 +12,7 @@ Choose **Runtime → Run all**. The notebook generates all data and exports usin
 
 ## Notebook v2
 
-The controlled teaching upgrade adds a beginner opening, eight-step roadmap, labeled boxplot anatomy, clearer interpretations and a decision aid. Original analyses and results are preserved. [QA report](EvidenceLab_05_NOTEBOOK_QA_FINAL.md) · [Original notebook](EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb) · [V2 exports](outputs_v2/). The existing infographic QR continues to open the original notebook; use the Colab button above for v2.
+The controlled teaching upgrade adds a beginner opening, eight-step roadmap, labeled boxplot anatomy, clearer interpretations and a decision aid. Original analyses and results are preserved. [QA report](EvidenceLab_05_NOTEBOOK_QA_FINAL.md) · [Original notebook](EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb) · [V2 exports](outputs_v2/). The infographic QR and the Colab button both open notebook v2. The original notebook remains available through the link above.
 
 ## What you will learn
 
