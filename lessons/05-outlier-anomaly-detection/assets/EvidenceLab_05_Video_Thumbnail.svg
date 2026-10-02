@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#04162C"/><stop offset="1" stop-color="#093F68"/></linearGradient><radialGradient id="glow"><stop stop-color="#00B8D9" stop-opacity=".3"/><stop offset="1" stop-color="#00B8D9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1920" height="1080" fill="url(#bg)"/><circle cx="1450" cy="550" r="610" fill="url(#glow)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="112" y="142" font-size="58" font-weight="700" fill="white">Evidence<tspan fill="#44CBFF">Lab</tspan><tspan fill="#8CAFC5" font-size="40">  /  05</tspan></text>
+<text x="112" y="355" font-size="115" font-weight="800" fill="white">DELETE</text><text x="112" y="485" font-size="115" font-weight="800" fill="white">THIS POINT?</text>
+<rect x="112" y="555" width="655" height="100" rx="16" fill="#FFD341"/><text x="146" y="624" font-size="59" font-weight="800" fill="#071B30">NOT SO FAST.</text>
+<text x="116" y="770" font-size="36" fill="#B3D1E3">ERROR · REAL EVENT · EARLY WARNING</text>
+<text x="116" y="950" font-size="31" fill="#B3D1E3">See it. Understand it. Run it.</text>
+<rect x="980" y="265" width="830" height="610" rx="30" fill="#0A2845" stroke="#235678" stroke-width="3"/>
+<path d="M1040 735 H1750 M1040 415 H1750 M1040 575 H1750" stroke="#21445F" stroke-width="2"/>
+<path d="M1055 723 L1150 680 L1245 702 L1340 655 L1435 395 L1530 685 L1625 659 L1720 687" fill="none" stroke="#44CBFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1435" cy="395" r="55" fill="#FF5068" opacity=".15"/><circle cx="1435" cy="395" r="24" fill="#FF5068" stroke="white" stroke-width="5"/>
+<path d="M1570 345 Q1530 320 1470 370" fill="none" stroke="#FFD341" stroke-width="6"/>
+<text x="1600" y="350" font-size="105" font-weight="800" fill="#FFD341">?</text><text x="1060" y="820" font-size="28" fill="#8FB5CC">ILLUSTRATIVE MONTHLY PATTERN</text></g></svg>

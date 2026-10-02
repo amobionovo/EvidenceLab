@@ -1,0 +1,8 @@
+analysis,months,value,interpretation
+Raw recorded mean,36,1580.361111,Includes verified error
+Corrected arithmetic mean,36,1267.861111,Mean of verified monthly counts
+Raw 1/99 capped mean,36,1479.570833,Capping does not repair the source error
+Corrected 1/99 capped mean,36,1265.586111,Modified-data mean; valid extremes altered
+Corrected median,36,1176.5,Middle month; different summary
+Exclude error month: mean,35,1268.371429,Different observation window
+Corrected geometric mean,36,1242.548946,Multiplicative summary; different estimand

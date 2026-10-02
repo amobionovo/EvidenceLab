@@ -1,0 +1,9 @@
+date,observed,source_verified,reason,action,iqr_flag,residual_flag,sustained_alert
+2024-03-01,12500,1250,"Confirmed transcription: 12,500 entered instead of 1,250","Correct to 1,250; retain original",True,False,False
+2024-12-01,2050,,Documented campaign with verified additional enrolments,Keep; model campaign separately if needed,True,True,False
+2025-07-01,1681,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor,False,True,False
+2025-08-01,1675,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor,False,True,False
+2025-09-01,1690,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor,False,True,True
+2025-10-01,1586,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor,False,True,True
+2025-11-01,1733,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor,False,True,True
+2025-12-01,1683,,Unexplained sustained increase; cause unconfirmed,Keep; verify coverage and investigate; monitor,False,True,True

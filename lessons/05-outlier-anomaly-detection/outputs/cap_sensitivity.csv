@@ -1,0 +1,5 @@
+tail_fraction,mean,changed_months,difference_from_corrected_mean
+0,1267.861111,0,0
+0.01,1265.586111,2,-2.275
+0.025,1262.173611,2,-5.6875
+0.05,1259.986111,4,-7.875

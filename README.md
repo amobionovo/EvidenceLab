@@ -34,6 +34,20 @@ or 0.5% among 10,000 estimated infections. Learn how to obtain and evaluate the 
 
 *Synthetic example with completed follow-up; person icons are illustrative.*
 
+## Lesson 05: Outlier and Anomaly Detection
+
+**When One Number Does Not Belong.** Detect unusual values, verify their context, compare treatments and monitor meaningful changes.
+
+[![Open Lesson 05 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb)
+
+[Explore Lesson 05](lessons/05-outlier-anomaly-detection/README.md) · [View the notebook](lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL.ipynb)
+
+![Lesson 05 infographic](lessons/05-outlier-anomaly-detection/assets/EvidenceLab_05_Infographic_FINAL.png)
+
+![Lesson 05 video preview](lessons/05-outlier-anomaly-detection/assets/EvidenceLab_05_Video_Thumbnail.png)
+
+YouTube publication pending.
+
 ## Lesson 03: Competing Risks
 
 **When Another Event Gets There First.** Define the event, identify what can happen first, choose the estimand, then choose the model.

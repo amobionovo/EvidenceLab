@@ -1,0 +1,2 @@
+date,observed,source_verified,reason,action,decision_basis
+2024-03-01,12500,1250,"Confirmed transcription: 12,500 entered instead of 1,250","Correct to 1,250; retain original",Fictional source record confirms transcription error
