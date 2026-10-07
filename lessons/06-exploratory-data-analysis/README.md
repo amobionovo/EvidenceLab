@@ -12,7 +12,7 @@ Select **Runtime → Run all**, then read from top to bottom. The pinned teachin
 
 ## New to Colab?
 
-Open the notebook and read **START HERE**. Choose **Runtime → Run all**, wait for completion, then follow **Step 0–9**. The glossary introduces the terms before analysis, and each code guide tells you what to click and expect. No Python editing or dataset upload is normally needed. After completion, change only the marked TRY IT variables. Advanced views are optional in the learning route. Kaleido is needed only for optional additional Plotly image export.
+The notebook opens with the approved EvidenceLab thumbnail and author credit. Read **START HERE** immediately below it. Choose **Runtime → Run all**, wait for completion, then follow **Step 0–9**. The glossary introduces the terms before analysis, and each code guide tells you what to click and expect. No Python editing or dataset upload is normally needed. After completion, change only the marked TRY IT variables. Advanced views are optional in the learning route. Kaleido is needed only for optional additional Plotly image export.
 
 [Beginner accessibility QA](QA/Beginner_Accessibility_QA.md)
 

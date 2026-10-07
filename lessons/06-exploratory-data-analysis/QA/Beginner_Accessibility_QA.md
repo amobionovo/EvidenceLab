@@ -13,3 +13,6 @@ Colab intermittently reported that JavaScript output files could not load. Page 
 The numerical claim ledger and adjusted odds-ratio table match the original release exactly. A separate core-only fresh-kernel run skipped 3D, scatter matrix, parallel coordinates and clustered heatmap cells and completed with zero errors. An assertion verified df_raw equals its unchanged analytical copy; the approved local CSV SHA-256 remains unchanged. Unsupported TRY IT choices print allowed choices without calling analytical helpers.
 
 Full executed Plotly JSON notebooks remain in local QA. Public copies contain static chart previews; Run all creates live interactive output. Prior source/public copies are archived locally under Notebook/Before_Beginner_Accessibility. Original source notebook and dataset are preserved.
+
+
+Opening ownership cover added on 7 October 2026: the final notebook now contains 164 cells, still 47 code cells. The approved episode thumbnail and author credit precede START HERE. Code, outputs and execution counts are unchanged; notebook schema validation passed. The cover uses the verified public PNG pinned to asset revision 8d07f00. This markdown-only change does not require repeating the scientific runtime tests.
