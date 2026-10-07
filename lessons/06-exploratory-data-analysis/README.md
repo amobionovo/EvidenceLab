@@ -52,4 +52,3 @@ Co-authors: Iboro Ekpo Nta, Aaron Anyebe Onah, Chukwuemeka Arinze Okolo, Ahmad A
 The CSV is a teaching copy, not the full original Framingham Heart Study. Its provenance and source terms are documented in [Lesson 02](../02-missing-data/data/README.md). It is not relicensed here. Code and original educational material follow the repository's existing licenses.
 
 **What unexpected pattern made you question your analysis?**
-
