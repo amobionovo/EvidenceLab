@@ -20,7 +20,7 @@ Use a distribution dropdown, outcome-stratified violins, age/BP scatter and prev
 
 ## Video preview
 
-![The pattern I almost dismissed — EvidenceLab #06](assets/eda_thumbnail_pattern_photo.png)
+![Highlighted outlier — EvidenceLab #06](assets/eda_thumbnail_dont_delete.png)
 
 The explainer is prepared for review; YouTube publication is pending.
 
