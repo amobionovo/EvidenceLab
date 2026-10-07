@@ -26,11 +26,11 @@ Use a distribution dropdown, outcome-stratified violins, age/BP scatter and prev
 
 ## Video preview
 
-![Highlighted outlier — EvidenceLab #06](assets/eda_thumbnail_dont_delete.png)
+[![Highlighted outlier — EvidenceLab #06](assets/eda_thumbnail_dont_delete.png)](https://www.youtube.com/watch?v=Ax0CZ8vyyvU)
 
 [Download thumbnail PNG](assets/eda_thumbnail_dont_delete.png) · [Download thumbnail JPG](assets/eda_thumbnail_dont_delete.jpg)
 
-The explainer is prepared for review; YouTube publication is pending.
+[Watch the Exploratory Data Analysis explainer on YouTube](https://www.youtube.com/watch?v=Ax0CZ8vyyvU).
 
 ## Lesson infographic
 

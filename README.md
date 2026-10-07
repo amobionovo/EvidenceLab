@@ -29,9 +29,9 @@ Epidemiology | Data Science | AI for Global Health
 
 ![Lesson 06 infographic](lessons/06-exploratory-data-analysis/assets/eda_infographic.png)
 
-![Lesson 06 video preview: Don’t delete this](lessons/06-exploratory-data-analysis/assets/eda_thumbnail_dont_delete.png)
+[![Lesson 06 video preview: Don’t delete this](lessons/06-exploratory-data-analysis/assets/eda_thumbnail_dont_delete.png)](https://www.youtube.com/watch?v=Ax0CZ8vyyvU)
 
-YouTube publication pending.
+[Watch the EDA explainer on YouTube](https://www.youtube.com/watch?v=Ax0CZ8vyyvU).
 
 ## Lesson 04: CFR vs IFR
 
