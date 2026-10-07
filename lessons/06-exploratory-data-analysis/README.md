@@ -10,6 +10,12 @@ Learn to audit data, identify variable types, investigate unusual values, engine
 
 Select **Runtime → Run all**, then read from top to bottom. The pinned teaching CSV downloads automatically and is checked by SHA-256. If the approved download fails, Colab requests the same CSV and verifies its SHA-256 before continuing. A different dataset is rejected. Source, filename, row count and column count are displayed. Generated evidence tables are saved under `outputs/`; interactive views and ten high-resolution PNG/SVG signature figures are saved under `evidencelab06_visuals/`.
 
+## New to Colab?
+
+Open the notebook and read **START HERE**. Choose **Runtime → Run all**, wait for completion, then follow **Step 0–9**. The glossary introduces the terms before analysis, and each code guide tells you what to click and expect. No Python editing or dataset upload is normally needed. After completion, change only the marked TRY IT variables. Advanced views are optional in the learning route. Kaleido is needed only for optional additional Plotly image export.
+
+[Beginner accessibility QA](QA/Beginner_Accessibility_QA.md)
+
 ## Explore the interactive evidence
 
 Use a distribution dropdown, outcome-stratified violins, age/BP scatter and prevalence surface, missingness suite, correlations, scatter matrix, outlier explorer, forest plot and apparent-calibration panel. Hover for denominators and recorded values. Descriptive and adjusted claims are labeled throughout.
