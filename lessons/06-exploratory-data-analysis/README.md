@@ -20,7 +20,7 @@ Use a distribution dropdown, outcome-stratified violins, age/BP scatter and prev
 
 ## Video preview
 
-![The pattern I almost dismissed — EvidenceLab #06](assets/eda_thumbnail_pattern.png)
+![The pattern I almost dismissed — EvidenceLab #06](assets/eda_thumbnail_pattern_photo.png)
 
 The explainer is prepared for review; YouTube publication is pending.
 
@@ -52,3 +52,4 @@ Co-authors: Iboro Ekpo Nta, Aaron Anyebe Onah, Chukwuemeka Arinze Okolo, Ahmad A
 The CSV is a teaching copy, not the full original Framingham Heart Study. Its provenance and source terms are documented in [Lesson 02](../02-missing-data/data/README.md). It is not relicensed here. Code and original educational material follow the repository's existing licenses.
 
 **What unexpected pattern made you question your analysis?**
+
