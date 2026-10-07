@@ -1,0 +1,17 @@
+,dtype,missing_n,missing_pct,unique_n
+glucose,float64,388,9.150943396226415,143
+education,float64,105,2.4764150943396226,4
+BPMeds,float64,53,1.25,2
+totChol,float64,50,1.179245283018868,248
+cigsPerDay,float64,29,0.6839622641509434,33
+BMI,float64,19,0.4481132075471698,1364
+heartRate,float64,1,0.02358490566037736,73
+male,int64,0,0.0,2
+prevalentHyp,int64,0,0.0,2
+prevalentStroke,int64,0,0.0,2
+age,int64,0,0.0,39
+currentSmoker,int64,0,0.0,2
+diaBP,float64,0,0.0,146
+sysBP,float64,0,0.0,234
+diabetes,int64,0,0.0,2
+TenYearCHD,int64,0,0.0,2

@@ -1,0 +1,11 @@
+{
+  "rows": 4240,
+  "variables": 16,
+  "CHD_n": 644,
+  "CHD_pct": 15.188679245283017,
+  "glucose_missing_n": 388,
+  "glucose_missing_pct": 9.150943396226415,
+  "model_n": 3658,
+  "model_CHD_pct": 15.226899945325314,
+  "dataset_sha256": "412c9ea5f0dfb7ad243dfcd1f2b4df500101904a8f443a22f3080394391853e9"
+}

@@ -1,0 +1,31 @@
+{
+  "run": "run_2",
+  "cells": 61,
+  "code_cells": 35,
+  "seconds": 5.040171146392822,
+  "errors": 0,
+  "exports": {
+    "00_accuracy_trap.png": "82ea2a2fc2c8124a9194bce0bb10bbca29bdd40e234f421921eabddf62b9ea6c",
+    "adjusted_odds_ratios.csv": "f218897702d6669ef9f70321fd8dd24099c6ef4c11d2c1d2f0a0eda389da2217",
+    "apparent_calibration.csv": "1892536670779cd1c3f96f01b9ec7adbabeb6e38778b907a444c1d7e4e5f617c",
+    "audit.csv": "cb9c656525156c4d257f01ae5479991bb53628b5a257a8e8e3d1f0ca39552cea",
+    "chart_11.png": "2fa3cecd3fa318d994963527fcfea4a28bacd0d7abdfbef1b75883248ce65d5a",
+    "chart_16.png": "5fc812b365ed070fc796acd08804f3bfab631f7b41671e34a461150a73a59641",
+    "chart_20.png": "b219f608a5c3e3048f32fbe563af7e58454309cc9fff24e42b11c770f0f38719",
+    "chart_21.png": "47a52fd5f9d1d6f87a5d46bbe59a6744b106157f5d268a6d1946f1eb07fb9c5a",
+    "chart_22.png": "4f80dcb9238e107ed2c93606093c68add1a1c5e3458cbbd52ee8f9f638f8544e",
+    "chart_25.png": "73c252b35d8b6e6ab9c5e183720c465569da74b18d7a362f836c7553e18f940f",
+    "chart_26.png": "06eb1434d2f0e28cb869722147bc79c465b28c1d34f06b2244e0e0588c53e097",
+    "chart_27.png": "142781d530e01acefddbac4284603970ff2831897f0a3fe421c6133780e240e9",
+    "chart_28.png": "c2b72b17f8bafb27390190a70a2fcd4fcf0ec10a9b0f53a1e11b54b276c634ed",
+    "chart_31.png": "02dfd6024f0f5f322780e0e3edadbbff4e153e51666b386ec763d2c41668e5dd",
+    "chart_34.png": "cc5fc4f397935e94ee406cac12606dd850baa1e997cd75347774b1589e99effe",
+    "chart_46.png": "a616e0dc734bb0be3ee5fdb5164ea90625a04179951403b02e9a7ea257eb19eb",
+    "correlations.csv": "3c543b1ef774f3a8119800794d1f18cb8ee1cf8454f388d6f4fcd0534a20a65d",
+    "numerical_claims.json": "6aafc5d775e8d83deb33576b14132419753dcfcefc8e7a96ac870e2cdfa5bd8d",
+    "outcome_summary.csv": "1dd1a0082159c9052b91dac03643dac2dc1feff46ec9e0c407570c48243695fd",
+    "outlier_summary.csv": "132ecf5c967c488bb9d2255c669409cf5302a617c4f1bbae48230991c1c5ff67",
+    "threshold_experiment.csv": "3f36de8502357f48f92e7faf5c3b4c88c8d8efb3f2b22e3fdd41f74769d18af3",
+    "threshold_experiment.png": "8928824dad14e07637bd8bd2c0a39e6d59b19359f2e6da02919f32635019cda4"
+  }
+}

@@ -19,6 +19,20 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 06: Exploratory Data Analysis
+
+**The pattern I almost dismissed.** Investigate data quality, distributions, unusual values and relationships before fitting a model. Follow the Framingham example from question to evidence, and distinguish inferential modeling from prediction.
+
+[![Open Lesson 06 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/EvidenceLab_06_EDA_FINAL.ipynb)
+
+[Explore Lesson 06](lessons/06-exploratory-data-analysis/README.md) · [View the notebook](lessons/06-exploratory-data-analysis/EvidenceLab_06_EDA_FINAL.ipynb)
+
+![Lesson 06 infographic](lessons/06-exploratory-data-analysis/assets/eda_infographic.png)
+
+![Lesson 06 video preview: The pattern I almost dismissed](lessons/06-exploratory-data-analysis/assets/eda_thumbnail_pattern.png)
+
+YouTube publication pending.
+
 ## Lesson 04: CFR vs IFR
 
 **When the Denominator Changes the Story.** The same 50 deaths: 5% among 1,000 detected cases,
@@ -165,6 +179,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | --- | --- | --- |
 | 01 | 95% Confidence Interval vs 95% Credible Interval | [Explanation, infographic, and notebook](lessons/01-confidence-vs-credible-interval/README.md) |
 | 02 | Missing Data in Real Life | [Explanation, infographic, and notebook](lessons/02-missing-data/README.md) |
+| 06 | Exploratory Data Analysis | [Explanation, infographic, and notebook](lessons/06-exploratory-data-analysis/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 
