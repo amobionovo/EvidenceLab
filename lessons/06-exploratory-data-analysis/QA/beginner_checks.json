@@ -1,0 +1,14 @@
+{
+  "kaleido_install_failure": "Optional Plotly image export is unavailable. Continue with the interactive figures and the standard static exports; the analysis is complete.",
+  "chrome_failure": "Optional Plotly image export could not finish (missingness); Kaleido may need Chrome. Continue: interactive figures, the analysis and standard static exports are unaffected.",
+  "core_only_errors": 0,
+  "raw_dataframe_unchanged": true,
+  "source_csv_sha256": "412c9ea5f0dfb7ad243dfcd1f2b4df500101904a8f443a22f3080394391853e9",
+  "skipped_advanced_cells": [
+    "beginner-cluster",
+    "eda06-interactive-047",
+    "eda06-interactive-064",
+    "eda06-interactive-070"
+  ],
+  "safe_try_it_invalid_choices": true
+}

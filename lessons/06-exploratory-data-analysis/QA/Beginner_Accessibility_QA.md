@@ -6,6 +6,10 @@ The top guide explains explanation/code cells, Run all, completion, chart contro
 
 Kaleido is absent from mandatory startup dependencies. Its installation is attempted only when optional EXPORT_PLOTLY_IMAGES is True; package-install and image-render failures are caught with a friendly continuation message. Standard Matplotlib exports and interactive Plotly charts do not require Kaleido.
 
-Hosted fresh-runtime and interaction verification: pending final test. Prior hosted validation applied to the earlier revision and is not evidence for this revision.
+Hosted Colab validation completed on 7 October 2026. A newly created runtime completed all 47 code cells without a traceback and loaded framingham.csv automatically: 4,240 rows, 16 columns, approved SHA-256. Setup cells expose native Show code controls. Live dropdown selection changed glucose in all three distribution panels; the forest-plot hover displayed OR, 95% CI and p-value. A DOM check of all 36 rich-output frames found all 61 interactive plots rendered, 14 static images loaded, zero broken images and zero tracebacks. The code tested at 0aa30d2 is identical to the final notebook code; later edits only move/expand the glossary and document recovery instructions.
+
+Colab intermittently reported that JavaScript output files could not load. Page reload followed by Edit → Clear all outputs and Run all resolved this browser-session problem; all figures then rendered. No browser privacy settings were changed. The beginner troubleshooting guide includes this observed recovery. Hosted library deprecation warnings remain visible and did not stop execution.
+
+The numerical claim ledger and adjusted odds-ratio table match the original release exactly. A separate core-only fresh-kernel run skipped 3D, scatter matrix, parallel coordinates and clustered heatmap cells and completed with zero errors. An assertion verified df_raw equals its unchanged analytical copy; the approved local CSV SHA-256 remains unchanged. Unsupported TRY IT choices print allowed choices without calling analytical helpers.
 
 Full executed Plotly JSON notebooks remain in local QA. Public copies contain static chart previews; Run all creates live interactive output. Prior source/public copies are archived locally under Notebook/Before_Beginner_Accessibility. Original source notebook and dataset are preserved.

@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-07",
+  "testedCodeCommit": "0aa30d2d5eddaf42129f70cc99cef35db44322f8",
+  "freshRuntimeRunAllCompleted": true,
+  "codeCells": 47,
+  "automaticDataset": {
+    "filename": "framingham.csv",
+    "rows": 4240,
+    "columns": 16,
+    "sha256": "412c9ea5f0dfb7ad243dfcd1f2b4df500101904a8f443a22f3080394391853e9"
+  },
+  "frames": [
+    {
+      "id": "cell-eda06-interactive-006",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-010",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-012",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 2,
+      "renderedPlots": 2,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-015",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-018",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-022",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-024",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 3,
+      "renderedPlots": 3,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-027",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-029",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 10,
+      "renderedPlots": 10,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-032",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-035",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 2,
+      "renderedPlots": 2,
+      "traceback": false
+    },
+    {
+      "id": "cell-beginner-try-35",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-038",
+      "brokenImages": 0,
+      "images": 2,
+      "plots": 5,
+      "renderedPlots": 5,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-041",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 3,
+      "renderedPlots": 3,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-044",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 4,
+      "renderedPlots": 4,
+      "traceback": false
+    },
+    {
+      "id": "cell-beginner-try-44",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-047",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-050",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 8,
+      "renderedPlots": 8,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-053",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-056",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 3,
+      "renderedPlots": 3,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-059",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-061",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-beginner-cluster",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-064",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-067",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 10,
+      "renderedPlots": 10,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-070",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-073",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-075",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-078",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-083",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-084",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-088",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-092",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-094",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 2,
+      "renderedPlots": 2,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-100",
+      "brokenImages": 0,
+      "images": 1,
+      "plots": 0,
+      "renderedPlots": 0,
+      "traceback": false
+    },
+    {
+      "id": "cell-eda06-interactive-104",
+      "brokenImages": 0,
+      "images": 0,
+      "plots": 1,
+      "renderedPlots": 1,
+      "traceback": false
+    }
+  ],
+  "dropdown": "glucose updated title and all three distribution panels",
+  "hover": "forest plot showed OR=0.826, 95% CI=0.649–1.052, p=0.1217",
+  "setupForms": "native Colab Show code controls confirmed",
+  "recovery": "Colab output JavaScript loading error cleared after page reload, Edit → Clear all outputs, and Run all; no browser privacy settings changed"
+}
