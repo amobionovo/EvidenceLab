@@ -29,7 +29,7 @@ Epidemiology | Data Science | AI for Global Health
 
 ![Lesson 06 infographic](lessons/06-exploratory-data-analysis/assets/eda_infographic.png)
 
-![Lesson 06 video preview: The pattern I almost dismissed](lessons/06-exploratory-data-analysis/assets/eda_thumbnail_pattern.png)
+![Lesson 06 video preview: Don’t delete this](lessons/06-exploratory-data-analysis/assets/eda_thumbnail_dont_delete.png)
 
 YouTube publication pending.
 

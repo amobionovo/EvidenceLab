@@ -28,6 +28,8 @@ Use a distribution dropdown, outcome-stratified violins, age/BP scatter and prev
 
 ![Highlighted outlier — EvidenceLab #06](assets/eda_thumbnail_dont_delete.png)
 
+[Download thumbnail PNG](assets/eda_thumbnail_dont_delete.png) · [Download thumbnail JPG](assets/eda_thumbnail_dont_delete.jpg)
+
 The explainer is prepared for review; YouTube publication is pending.
 
 ## Lesson infographic
