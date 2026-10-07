@@ -6,9 +6,17 @@ Dr. Amobi Andrew Onovo · See it. Understand it. Run it.
 
 Learn to audit data, identify variable types, investigate unusual values, engineer meaningful features and connect distributions and relationships to model specification. The Framingham teaching example distinguishes adjusted association from prediction and shows why class imbalance does not automatically call for resampling.
 
-[Open in Google Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/EvidenceLab_06_EDA_FINAL.ipynb) · [Notebook](EvidenceLab_06_EDA_FINAL.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/EvidenceLab_06_Exploratory_Data_Analysis_Framingham_Interactive.ipynb) · [Interactive notebook](EvidenceLab_06_Exploratory_Data_Analysis_Framingham_Interactive.ipynb) · [Earlier static notebook](EvidenceLab_06_EDA_FINAL.ipynb)
 
-Select **Runtime → Run all**, then read from top to bottom. The pinned teaching CSV downloads automatically and is checked by SHA-256. No manual upload is required. Generated tables and figures are saved under `outputs/`.
+Select **Runtime → Run all**, then read from top to bottom. The pinned teaching CSV downloads automatically and is checked by SHA-256. If the approved download fails, Colab requests the same CSV and verifies its SHA-256 before continuing. A different dataset is rejected. Source, filename, row count and column count are displayed. Generated evidence tables are saved under `outputs/`; interactive views and ten high-resolution PNG/SVG signature figures are saved under `evidencelab06_visuals/`.
+
+## Explore the interactive evidence
+
+Use a distribution dropdown, outcome-stratified violins, age/BP scatter and prevalence surface, missingness suite, correlations, scatter matrix, outlier explorer, forest plot and apparent-calibration panel. Hover for denominators and recorded values. Descriptive and adjusted claims are labeled throughout.
+
+![Age and SBP: observed prevalence, sparse cells masked](interactive_visuals/05_age_sbp_risk_surface.png)
+
+[Signature exports](interactive_visuals/) · [Interactive QA](QA/Interactive_QA.md)
 
 ## Video preview
 

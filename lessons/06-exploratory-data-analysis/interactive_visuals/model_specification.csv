@@ -1,0 +1,5 @@
+Variable,Recorded descriptive signal,Overlapping information,Model treatment
+age,Mean: no CHD 48.8; CHD 54.1,sysBP: r=0.394,"Continuous, per 5 years"
+sysBP,Mean: no CHD 130.3; CHD 143.6,diaBP: r=0.784,"Selected BP representation, per 10 mmHg"
+cigsPerDay,Mean: no CHD 8.7; CHD 10.6,currentSmoker: r=0.770,"Continuous intensity, per 10/day"
+glucose,Mean: no CHD 80.7; CHD 89.0,diabetes: r=0.618,Continuous glucose plus diabetes indicator

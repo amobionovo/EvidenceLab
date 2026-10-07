@@ -1,0 +1,8 @@
+{
+  "automatic_source_first": true,
+  "source_outage_upload_fallback": true,
+  "wrong_dataset_rejected": true,
+  "corrupt_download_verified_upload_fallback": true,
+  "source_filename_dimensions_displayed": true,
+  "sha256": "412c9ea5f0dfb7ad243dfcd1f2b4df500101904a8f443a22f3080394391853e9"
+}

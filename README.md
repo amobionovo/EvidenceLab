@@ -23,9 +23,9 @@ Epidemiology | Data Science | AI for Global Health
 
 **The pattern I almost dismissed.** Investigate data quality, distributions, unusual values and relationships before fitting a model. Follow the Framingham example from question to evidence, and distinguish inferential modeling from prediction.
 
-[![Open Lesson 06 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/EvidenceLab_06_EDA_FINAL.ipynb)
+[![Open Lesson 06 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/EvidenceLab_06_Exploratory_Data_Analysis_Framingham_Interactive.ipynb)
 
-[Explore Lesson 06](lessons/06-exploratory-data-analysis/README.md) · [View the notebook](lessons/06-exploratory-data-analysis/EvidenceLab_06_EDA_FINAL.ipynb)
+[Explore Lesson 06](lessons/06-exploratory-data-analysis/README.md) · [View the notebook](lessons/06-exploratory-data-analysis/EvidenceLab_06_Exploratory_Data_Analysis_Framingham_Interactive.ipynb)
 
 ![Lesson 06 infographic](lessons/06-exploratory-data-analysis/assets/eda_infographic.png)
 

@@ -1,0 +1,26 @@
+{
+  "cells": 110,
+  "code_cells": 44,
+  "seconds": 16.805866479873657,
+  "errors": 0,
+  "exports": {
+    "01_missingness.png": "c84cd845f5d899ef5dcf742ee4e77b95b6a4d14ffb56de110b75f75755cebb03",
+    "02_age_outcome_distribution.png": "eb223f26f757f370aba7727e96dc4f854eab4c2570595244c47eebdd51f82c32",
+    "03_sbp_outcome_distribution.png": "5baa3553c89db03d8643765619a30c4d7afdde2bb900b96f1880f8471a6b6593",
+    "04_age_sbp_outcome_scatter.png": "7a0ad83bd7d0d6ee5dd771f73c5485a4c63d9af2535c624de81e5f3e164d0314",
+    "05_age_sbp_risk_surface.png": "44cfbf9b5f8527a83432c92db0fa52059cfd80dba88b8245a484eadf39d9285f",
+    "06_correlation_heatmap.png": "79cb63d52b5520a3d39c7b2f6d56a299c5dcd97fe5a4288bf574b04b8571e9f8",
+    "07_class_imbalance.png": "a27d47a3469a1060c1d7b0bfe0dbe12212a70526dcc5cfbff1665116328a6eb7",
+    "08_adjusted_OR_forest_plot.png": "cdb5412b850da79c57345e702df62772e534229ab1cf54ca6f7a2db794e3f4eb",
+    "09_calibration.png": "88c9faadfa50a341a7a03cd136ea56de57f10fef4ef8353d12330e6b184a4b53",
+    "10_eda_to_model.png": "9c6c74f9f943b8238269401d83d6c492e93cecb3e81b885ff60638efec584085",
+    "age_curve.csv": "18b200f5e69b996c62f2e4f65aaebb1c5b526682fe60b8bda57d2b64c38d9c21",
+    "age_sbp_surface.csv": "3fe0e908abf9a5c4f0ee3578c749704265d2d033e986431ee70b63b000deeb4e",
+    "apparent_metrics.json": "2247bc72e85be731d638548c20a68b05589d64d61229d628cebe7d56f59166af",
+    "categorical_prevalence.csv": "f3855eed7f3efd4d10988eff3ed23e015e29c5545e38c79b895747ae9beeb512",
+    "correlation_pairwise_n.csv": "200856fc5f4ce23b402f82acc327e71e69edfc8b59b71ef15cfcb535f2ef7de9",
+    "missingness_by_outcome.csv": "348621c0b190d58f91b1a6c9028f69045943211469d93bf1613ac03aac201253",
+    "model_specification.csv": "0167a2e4140921813f0afe25465b6c287094601c22010661e41b8ea7af034d2a"
+  },
+  "plotly_outputs": 59
+}
