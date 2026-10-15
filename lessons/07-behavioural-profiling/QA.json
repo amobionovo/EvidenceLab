@@ -26,5 +26,7 @@
   "private_paths_in_notebook": false,
   "public_cover": "pinned public GitHub image verified HTTP 200",
   "visual_review": "All figure and table contact sheets inspected; dense distributions, profile matrices and numeric/categorical tables inspected at enlarged resolution; HTML numeric profile table inspected in browser",
-  "hosted_colab": "pending"
+  "hosted_colab": "Opened and runtime connected; output JavaScript renderer reported a login/cookie error; full hosted execution not certified",
+  "post_execution_markdown_update": "Cover URL updated to revised public thumbnail; section numbers made sequential. All code cells identical to the twice-executed source.",
+  "code_cells_sha256": "6a0ffb6808830ae1259428eb0e9aed67c7559379131f0bd24649fa1669d7db45"
 }
