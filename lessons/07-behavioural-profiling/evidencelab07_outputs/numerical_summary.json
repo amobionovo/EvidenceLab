@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "health": {
+    "rows": 1200,
+    "features": 24,
+    "candidate_k": 2,
+    "components_90pct": 14,
+    "km_silhouette": 0.1795916497259153,
+    "ward_silhouette": 0.1641648509366208,
+    "cophenetic": 0.4578295256871365,
+    "median_stability_ari": 0.9844637368197958,
+    "hidden_pattern_ari": 0.38194363025320793
+  },
+  "ecommerce": {
+    "rows": 1500,
+    "features": 22,
+    "candidate_k": 2,
+    "components_90pct": 13,
+    "km_silhouette": 0.24945123417951223,
+    "ward_silhouette": 0.2464351381986018,
+    "cophenetic": 0.6255520726678704,
+    "median_stability_ari": 1.0,
+    "hidden_pattern_ari": 0.47642291447401425
+  }
+}

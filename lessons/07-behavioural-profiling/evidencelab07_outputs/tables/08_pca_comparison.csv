@@ -1,0 +1,5 @@
+Dataset,Feature space,Dimensions,K,Silhouette
+Health,Full transformed,24,2,0.1795916497259153
+Health,PCA ≥90% variance,14,2,0.19891526081709537
+E-commerce,Full transformed,22,2,0.24945123417951223
+E-commerce,PCA ≥90% variance,13,2,0.2726627592078842

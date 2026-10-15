@@ -1,0 +1,248 @@
+{
+  "figures": [
+    {
+      "id": "01_beyond_the_mean",
+      "title": "Figure 1. The same average can conceal distinct ranges",
+      "note": "Synthetic illustration \u00b7 No causal interpretation or individual service assignment follows from these ranges."
+    },
+    {
+      "id": "02_health_distributions",
+      "title": "Figure 2. Health feature distributions",
+      "note": "Synthetic health data \u00b7 Bars show observed records; missing values are omitted separately for each feature."
+    },
+    {
+      "id": "03_health_missingness",
+      "title": "Figure 3. Health missingness",
+      "note": "Denominator: all records in the dataset \u00b7 Missingness is a data-quality feature, not an explanation of behaviour."
+    },
+    {
+      "id": "04_health_correlations",
+      "title": "Figure 4. Health pairwise correlations",
+      "note": "Synthetic data \u00b7 Pairwise complete observations; denominators can differ across pairs. No statistical-significance tests are shown."
+    },
+    {
+      "id": "02_ecommerce_distributions",
+      "title": "Figure 5. Ecommerce feature distributions",
+      "note": "Synthetic ecommerce data \u00b7 Bars show observed records; missing values are omitted separately for each feature."
+    },
+    {
+      "id": "03_ecommerce_missingness",
+      "title": "Figure 6. Ecommerce missingness",
+      "note": "Denominator: all records in the dataset \u00b7 Missingness is a data-quality feature, not an explanation of behaviour."
+    },
+    {
+      "id": "04_ecommerce_correlations",
+      "title": "Figure 7. Ecommerce pairwise correlations",
+      "note": "Synthetic data \u00b7 Pairwise complete observations; denominators can differ across pairs. No statistical-significance tests are shown."
+    },
+    {
+      "id": "05_health_pca",
+      "title": "Figure 8. Health: variance and two-dimensional projection",
+      "note": "All transformed features used for PCA \u00b7 Points are synthetic records; no cluster labels have been assigned in this display."
+    },
+    {
+      "id": "05_e-commerce_pca",
+      "title": "Figure 9. E-commerce: variance and two-dimensional projection",
+      "note": "All transformed features used for PCA \u00b7 Points are synthetic records; no cluster labels have been assigned in this display."
+    },
+    {
+      "id": "06_candidate_k",
+      "title": "Figure 10. A diagnostic starting point: compare candidate K",
+      "note": "Shared vertical scale \u00b7 The highest silhouette is not definitive validation; consider size, stability, meaning and consequences."
+    },
+    {
+      "id": "07_hierarchies",
+      "title": "Figure 11. Hierarchies preserve distances to different degrees",
+      "note": "Fixed random subsets of 250 \u00b7 24 displayed terminal branches \u00b7 The linkage-distance axes are dataset-specific, not clinical units."
+    },
+    {
+      "id": "08_health_cluster_projection",
+      "title": "Figure 12. Health: same projection, two fitted partitions",
+      "note": "Models fitted in full transformed space \u00b7 Shared axes within dataset \u00b7 Cluster numbers are method-specific; overlap in 2D is not a validity test."
+    },
+    {
+      "id": "08_e-commerce_cluster_projection",
+      "title": "Figure 13. E-commerce: same projection, two fitted partitions",
+      "note": "Models fitted in full transformed space \u00b7 Shared axes within dataset \u00b7 Cluster numbers are method-specific; overlap in 2D is not a validity test."
+    },
+    {
+      "id": "09_health_profile_medians",
+      "title": "Figure 14. Health: observed profiles in original units",
+      "note": "Printed values: observed medians \u00b7 Colour: standardised contrast, not uncertainty \u00b7 Labels are method-specific; no causal effects are estimated."
+    },
+    {
+      "id": "09_e-commerce_profile_medians",
+      "title": "Figure 15. E-commerce: observed profiles in original units",
+      "note": "Printed values: observed medians \u00b7 Colour: standardised contrast, not uncertainty \u00b7 Labels are method-specific; no causal effects are estimated."
+    },
+    {
+      "id": "10_subsample_stability",
+      "title": "Figure 16. Reproducible partitions are not necessarily the generating patterns",
+      "note": "28 dependent pairwise comparisons \u00b7 Horizontal offsets separate overlapping points; they do not encode another variable."
+    }
+  ],
+  "tables": [
+    {
+      "id": "01_average_example",
+      "title": "Table 1. One average can conceal two different ranges",
+      "note": "Six fictional scores; the two ranges were defined for illustration, not learned by a model.",
+      "rows": 3
+    },
+    {
+      "id": "02_dataset_overview",
+      "title": "Table 2. Teaching data at a glance",
+      "note": "Deterministic generators: health seed 42; e-commerce seed 43. No real patient or customer data.",
+      "rows": 2
+    },
+    {
+      "id": "03_health_preview",
+      "title": "Table 3. Health preview \u2014 first five fictional records",
+      "note": "A preview only. Complete synthetic inputs are exported as CSV; missing values are shown as an em dash.",
+      "rows": 5
+    },
+    {
+      "id": "03_ecommerce_preview",
+      "title": "Table 4. Ecommerce preview \u2014 first five fictional records",
+      "note": "A preview only. Complete synthetic inputs are exported as CSV; missing values are shown as an em dash.",
+      "rows": 5
+    },
+    {
+      "id": "04_health_quality",
+      "title": "Table 5. Health completeness and data types",
+      "note": "Synthetic data; N=1,200. Percent missing = missing n / N \u00d7 100. Duplicate complete rows: 0.",
+      "rows": 12
+    },
+    {
+      "id": "05_health_descriptive",
+      "title": "Table 6. Health numeric characteristics",
+      "note": "Observed values only; SD uses n\u22121. Quartiles describe the empirical distribution; no inferential intervals are estimated.",
+      "rows": 7
+    },
+    {
+      "id": "04_ecommerce_quality",
+      "title": "Table 7. Ecommerce completeness and data types",
+      "note": "Synthetic data; N=1,500. Percent missing = missing n / N \u00d7 100. Duplicate complete rows: 0.",
+      "rows": 11
+    },
+    {
+      "id": "05_ecommerce_descriptive",
+      "title": "Table 8. Ecommerce numeric characteristics",
+      "note": "Observed values only; SD uses n\u22121. Quartiles describe the empirical distribution; no inferential intervals are estimated.",
+      "rows": 7
+    },
+    {
+      "id": "06_preprocessing",
+      "title": "Table 9. Preprocessing preserves records and expands categorical features",
+      "note": "Median imputation + StandardScaler for numeric fields; most-frequent imputation + one-hot encoding for categories. Simulation labels excluded.",
+      "rows": 2
+    },
+    {
+      "id": "07_candidate_k",
+      "title": "Table 10. Candidate K and cluster-size diagnostics",
+      "note": "Silhouette: fixed sample of min(1,000, N); sizes: all fitted records. K is a candidate count, not an established service classification.",
+      "rows": 14
+    },
+    {
+      "id": "08_pca_comparison",
+      "title": "Table 11. PCA changes the feature space being assessed",
+      "note": "Same candidate K, seed and n_init; silhouette is measured in each fitted space. Primary models below remain in full transformed space.",
+      "rows": 4
+    },
+    {
+      "id": "09_method_comparison",
+      "title": "Table 12. Compare algorithms on the same feature space",
+      "note": "Fixed sampled silhouette; algorithms fitted on all records. A different cluster number is not a diagnosis or a causal explanation.",
+      "rows": 4
+    },
+    {
+      "id": "10_cophenetic",
+      "title": "Table 13. Fidelity of the subset hierarchies",
+      "note": "Correlation of original pairwise distances with cophenetic distances; not cluster stability, fairness or service effectiveness.",
+      "rows": 2
+    },
+    {
+      "id": "11_health_k-means_sizes",
+      "title": "Table 14. Health / K-means: cluster sizes",
+      "note": "Synthetic N=1,200; algorithm-specific labels.",
+      "rows": 2
+    },
+    {
+      "id": "12_health_k-means_numeric",
+      "title": "Table 15. Health / K-means: observed numeric profiles",
+      "note": "C1 = Cluster 1, etc. Observed n is the nonmissing denominator for that attribute and cluster; original units are retained.",
+      "rows": 7
+    },
+    {
+      "id": "13_health_k-means_categorical",
+      "title": "Table 16. Health / K-means: categorical profiles",
+      "note": "n (%) among ALL records in that cluster; Missing is included as a level. Percentages within each attribute and cluster sum to 100%, subject to rounding.",
+      "rows": 19
+    },
+    {
+      "id": "11_health_ward_sizes",
+      "title": "Table 17. Health / Ward: cluster sizes",
+      "note": "Synthetic N=1,200; algorithm-specific labels.",
+      "rows": 2
+    },
+    {
+      "id": "12_health_ward_numeric",
+      "title": "Table 18. Health / Ward: observed numeric profiles",
+      "note": "C1 = Cluster 1, etc. Observed n is the nonmissing denominator for that attribute and cluster; original units are retained.",
+      "rows": 7
+    },
+    {
+      "id": "13_health_ward_categorical",
+      "title": "Table 19. Health / Ward: categorical profiles",
+      "note": "n (%) among ALL records in that cluster; Missing is included as a level. Percentages within each attribute and cluster sum to 100%, subject to rounding.",
+      "rows": 19
+    },
+    {
+      "id": "11_ecommerce_k-means_sizes",
+      "title": "Table 20. E-commerce / K-means: cluster sizes",
+      "note": "Synthetic N=1,500; algorithm-specific labels.",
+      "rows": 2
+    },
+    {
+      "id": "12_ecommerce_k-means_numeric",
+      "title": "Table 21. E-commerce / K-means: observed numeric profiles",
+      "note": "C1 = Cluster 1, etc. Observed n is the nonmissing denominator for that attribute and cluster; original units are retained.",
+      "rows": 7
+    },
+    {
+      "id": "13_ecommerce_k-means_categorical",
+      "title": "Table 22. E-commerce / K-means: categorical profiles",
+      "note": "n (%) among ALL records in that cluster; Missing is included as a level. Percentages within each attribute and cluster sum to 100%, subject to rounding.",
+      "rows": 16
+    },
+    {
+      "id": "11_ecommerce_ward_sizes",
+      "title": "Table 23. E-commerce / Ward: cluster sizes",
+      "note": "Synthetic N=1,500; algorithm-specific labels.",
+      "rows": 2
+    },
+    {
+      "id": "12_ecommerce_ward_numeric",
+      "title": "Table 24. E-commerce / Ward: observed numeric profiles",
+      "note": "C1 = Cluster 1, etc. Observed n is the nonmissing denominator for that attribute and cluster; original units are retained.",
+      "rows": 7
+    },
+    {
+      "id": "13_ecommerce_ward_categorical",
+      "title": "Table 25. E-commerce / Ward: categorical profiles",
+      "note": "n (%) among ALL records in that cluster; Missing is included as a level. Percentages within each attribute and cluster sum to 100%, subject to rounding.",
+      "rows": 16
+    },
+    {
+      "id": "14_stability",
+      "title": "Table 26. Stability and simulation-pattern agreement answer different questions",
+      "note": "Eight 80% subsamples; 28 overlapping pairs. Comparisons are dependent and do not form an inferential sample or confidence interval.",
+      "rows": 2
+    },
+    {
+      "id": "15_k_experiment",
+      "title": "Table 27. Health sensitivity to the chosen K",
+      "note": "Only K changes. Hidden-pattern agreement is available because this is a simulation; it is not a real-world validation target.",
+      "rows": 2
+    }
+  ]
+}

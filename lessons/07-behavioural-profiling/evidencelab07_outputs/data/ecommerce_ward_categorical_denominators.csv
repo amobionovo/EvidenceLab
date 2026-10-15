@@ -1,0 +1,33 @@
+attribute,level,cluster,n,denominator,percent
+category,Beauty,0,154,746,20.64343163538874
+category,Beauty,1,128,754,16.97612732095491
+category,Electronics,0,161,746,21.58176943699732
+category,Electronics,1,150,754,19.893899204244033
+category,Fashion,0,144,746,19.302949061662197
+category,Fashion,1,156,754,20.689655172413794
+category,Grocery,0,131,746,17.560321715817693
+category,Grocery,1,160,754,21.220159151193634
+category,Home,0,156,746,20.91152815013405
+category,Home,1,160,754,21.220159151193634
+acquisition_channel,Email,0,146,746,19.571045576407506
+acquisition_channel,Email,1,144,754,19.09814323607427
+acquisition_channel,Missing,0,21,746,2.8150134048257374
+acquisition_channel,Missing,1,24,754,3.183023872679045
+acquisition_channel,Organic,0,131,746,17.560321715817693
+acquisition_channel,Organic,1,147,754,19.49602122015915
+acquisition_channel,Paid search,0,172,746,23.056300268096514
+acquisition_channel,Paid search,1,142,754,18.83289124668435
+acquisition_channel,Referral,0,137,746,18.364611260053618
+acquisition_channel,Referral,1,161,754,21.352785145888593
+acquisition_channel,Social,0,139,746,18.632707774798927
+acquisition_channel,Social,1,136,754,18.03713527851459
+device,Desktop,0,227,746,30.428954423592494
+device,Desktop,1,225,754,29.840848806366047
+device,Mobile,0,486,746,65.14745308310992
+device,Mobile,1,499,754,66.18037135278514
+device,Tablet,0,33,746,4.423592493297587
+device,Tablet,1,30,754,3.9787798408488064
+loyalty_member,No,0,471,746,63.13672922252011
+loyalty_member,No,1,479,754,63.52785145888594
+loyalty_member,Yes,0,275,746,36.86327077747989
+loyalty_member,Yes,1,275,754,36.47214854111406

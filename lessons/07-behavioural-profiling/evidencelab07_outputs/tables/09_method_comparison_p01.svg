@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="806.4pt" height="256.32pt" viewBox="0 0 806.4 256.32" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 256.32 
+L 806.4 256.32 
+L 806.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 40.32 84.647117 
+L 324.784552 84.647117 
+M 324.784552 51.058944 
+L 40.32 51.058944 
+M 40.32 84.647117 
+" style="fill: #f2f6f7; stroke: #15354a; stroke-width: 0.9; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 600; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="74.455746" y="70.190921" transform="rotate(-0 74.455746 70.190921)">Dataset</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 324.784552 84.647117 
+L 467.016828 84.647117 
+M 467.016828 51.058944 
+L 324.784552 51.058944 
+M 324.784552 84.647117 
+" style="fill: #f2f6f7; stroke: #15354a; stroke-width: 0.9; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 600; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="341.852425" y="70.191273" transform="rotate(-0 341.852425 70.191273)">Candidate K</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 467.016828 84.647117 
+L 648.039724 84.647117 
+M 648.039724 51.058944 
+L 467.016828 51.058944 
+M 467.016828 84.647117 
+" style="fill: #f2f6f7; stroke: #15354a; stroke-width: 0.9; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 600; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="488.739575" y="70.191273" transform="rotate(-0 488.739575 70.191273)">Method</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 648.039724 84.647117 
+L 790.272 84.647117 
+M 790.272 51.058944 
+L 648.039724 51.058944 
+M 648.039724 84.647117 
+" style="fill: #f2f6f7; stroke: #15354a; stroke-width: 0.9; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-weight: 600; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="665.107597" y="70.191273" transform="rotate(-0 665.107597 70.191273)">Silhouette</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 40.32 118.23529 
+L 324.784552 118.23529 
+M 324.784552 84.647117 
+M 40.32 84.647117 
+M 40.32 118.23529 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="74.455746" y="103.779445" transform="rotate(-0 74.455746 103.779445)">Health</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 324.784552 118.23529 
+L 467.016828 118.23529 
+M 467.016828 84.647117 
+M 324.784552 84.647117 
+M 324.784552 118.23529 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="449.948954" y="103.779094" transform="rotate(-0 449.948954 103.779094)">2</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 467.016828 118.23529 
+L 648.039724 118.23529 
+M 648.039724 84.647117 
+M 467.016828 84.647117 
+M 467.016828 118.23529 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="488.739575" y="103.779094" transform="rotate(-0 488.739575 103.779094)">K-means</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 648.039724 118.23529 
+L 790.272 118.23529 
+M 790.272 84.647117 
+M 648.039724 84.647117 
+M 648.039724 118.23529 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="773.204127" y="103.779094" transform="rotate(-0 773.204127 103.779094)">0.180</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 40.32 151.823462 
+L 324.784552 151.823462 
+M 324.784552 118.23529 
+M 40.32 118.23529 
+M 40.32 151.823462 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="74.455746" y="137.367618" transform="rotate(-0 74.455746 137.367618)">Health</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 324.784552 151.823462 
+L 467.016828 151.823462 
+M 467.016828 118.23529 
+M 324.784552 118.23529 
+M 324.784552 151.823462 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="449.948954" y="137.367267" transform="rotate(-0 449.948954 137.367267)">2</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 467.016828 151.823462 
+L 648.039724 151.823462 
+M 648.039724 118.23529 
+M 467.016828 118.23529 
+M 467.016828 151.823462 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="488.739575" y="137.367618" transform="rotate(-0 488.739575 137.367618)">Agglomerative (Ward)</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 648.039724 151.823462 
+L 790.272 151.823462 
+M 790.272 118.23529 
+M 648.039724 118.23529 
+M 648.039724 151.823462 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="773.204127" y="137.367267" transform="rotate(-0 773.204127 137.367267)">0.164</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 40.32 185.411635 
+L 324.784552 185.411635 
+M 324.784552 151.823462 
+M 40.32 151.823462 
+M 40.32 185.411635 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="74.455746" y="170.955439" transform="rotate(-0 74.455746 170.955439)">E-commerce</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 324.784552 185.411635 
+L 467.016828 185.411635 
+M 467.016828 151.823462 
+M 324.784552 151.823462 
+M 324.784552 185.411635 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="449.948954" y="170.955439" transform="rotate(-0 449.948954 170.955439)">2</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 467.016828 185.411635 
+L 648.039724 185.411635 
+M 648.039724 151.823462 
+M 467.016828 151.823462 
+M 467.016828 185.411635 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="488.739575" y="170.955439" transform="rotate(-0 488.739575 170.955439)">K-means</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 648.039724 185.411635 
+L 790.272 185.411635 
+M 790.272 151.823462 
+M 648.039724 151.823462 
+M 648.039724 185.411635 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="773.204127" y="170.955439" transform="rotate(-0 773.204127 170.955439)">0.249</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 40.32 218.999808 
+L 324.784552 218.999808 
+M 324.784552 185.411635 
+M 40.32 185.411635 
+M 40.32 218.999808 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="74.455746" y="204.543612" transform="rotate(-0 74.455746 204.543612)">E-commerce</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 324.784552 218.999808 
+L 467.016828 218.999808 
+M 467.016828 185.411635 
+M 324.784552 185.411635 
+M 324.784552 218.999808 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="449.948954" y="204.543612" transform="rotate(-0 449.948954 204.543612)">2</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 467.016828 218.999808 
+L 648.039724 218.999808 
+M 648.039724 185.411635 
+M 467.016828 185.411635 
+M 467.016828 218.999808 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="488.739575" y="204.543964" transform="rotate(-0 488.739575 204.543964)">Agglomerative (Ward)</text>
+    </g>
+    <g id="patch_21">
+     <path d="M 648.039724 218.999808 
+L 790.272 218.999808 
+M 790.272 185.411635 
+M 648.039724 185.411635 
+M 648.039724 218.999808 
+" style="fill: #ffffff; stroke: #d5dee4; stroke-width: 0.45; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15354a" x="773.204127" y="204.543612" transform="rotate(-0 773.204127 204.543612)">0.246</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_21">
+   <text style="font-weight: 600; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15354a" x="44.352" y="19.370925" transform="rotate(-0 44.352 19.370925)">Table 12. Compare algorithms on the same feature space</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #566773" x="44.352" y="247.990125" transform="rotate(-0 44.352 247.990125)">Fixed sampled silhouette; algorithms fitted on all records. A different cluster number is not a diagnosis or a causal explanation.</text>
+  </g>
+ </g>
+</svg>

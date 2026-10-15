@@ -1,0 +1,3 @@
+Dataset,Numeric features,Categorical features,Encoded dimensions,Retained records
+Health,7,5,24,1200
+E-commerce,7,4,22,1500

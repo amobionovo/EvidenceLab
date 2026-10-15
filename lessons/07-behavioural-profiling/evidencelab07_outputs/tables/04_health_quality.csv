@@ -1,0 +1,13 @@
+Attribute,Type,Observed n,Missing n,Missing (%)
+Age (years),Numeric,1200,0,0.0
+ART duration (months),Numeric,1164,36,3.0
+Refill interval (months),Numeric,1200,0,0.0
+Missed appointments (12 months),Numeric,1200,0,0.0
+Days since expected contact,Numeric,1200,0,0.0
+Travel distance (km),Numeric,1104,96,8.0
+Contact attempts (count),Numeric,1200,0,0.0
+Sex,Categorical,1200,0,0.0
+Region,Categorical,1200,0,0.0
+Facility type,Categorical,1200,0,0.0
+Viral load documented,Categorical,1056,144,12.0
+Contact channel,Categorical,1116,84,7.000000000000001

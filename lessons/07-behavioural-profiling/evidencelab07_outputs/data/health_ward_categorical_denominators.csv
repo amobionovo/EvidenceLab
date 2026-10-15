@@ -1,0 +1,39 @@
+attribute,level,cluster,n,denominator,percent
+sex,Female,0,536,830,64.57831325301204
+sex,Female,1,242,370,65.4054054054054
+sex,Male,0,294,830,35.42168674698795
+sex,Male,1,128,370,34.5945945945946
+region,North Central,0,172,830,20.72289156626506
+region,North Central,1,70,370,18.91891891891892
+region,North East,0,152,830,18.313253012048193
+region,North East,1,79,370,21.35135135135135
+region,North West,0,165,830,19.879518072289155
+region,North West,1,60,370,16.216216216216218
+region,South South,0,178,830,21.44578313253012
+region,South South,1,75,370,20.27027027027027
+region,South West,0,163,830,19.63855421686747
+region,South West,1,86,370,23.243243243243242
+facility_type,Community,0,211,830,25.42168674698795
+facility_type,Community,1,107,370,28.91891891891892
+facility_type,Primary,0,195,830,23.49397590361446
+facility_type,Primary,1,87,370,23.513513513513512
+facility_type,Secondary,0,213,830,25.662650602409638
+facility_type,Secondary,1,83,370,22.43243243243243
+facility_type,Tertiary,0,211,830,25.42168674698795
+facility_type,Tertiary,1,93,370,25.135135135135137
+viral_load_documented,Missing,0,99,830,11.927710843373495
+viral_load_documented,Missing,1,45,370,12.162162162162161
+viral_load_documented,No,0,330,830,39.75903614457831
+viral_load_documented,No,1,139,370,37.567567567567565
+viral_load_documented,Yes,0,401,830,48.31325301204819
+viral_load_documented,Yes,1,186,370,50.270270270270274
+contact_channel,Community worker,0,185,830,22.289156626506024
+contact_channel,Community worker,1,76,370,20.54054054054054
+contact_channel,Missing,0,62,830,7.469879518072289
+contact_channel,Missing,1,22,370,5.945945945945946
+contact_channel,Not documented,0,189,830,22.771084337349397
+contact_channel,Not documented,1,91,370,24.594594594594593
+contact_channel,Phone,0,191,830,23.012048192771083
+contact_channel,Phone,1,99,370,26.756756756756758
+contact_channel,SMS,0,203,830,24.457831325301203
+contact_channel,SMS,1,82,370,22.16216216216216

@@ -1,0 +1,5 @@
+Dataset,Candidate K,Method,Silhouette
+Health,2,K-means,0.1795916497259153
+Health,2,Agglomerative (Ward),0.1641648509366208
+E-commerce,2,K-means,0.24945123417951223
+E-commerce,2,Agglomerative (Ward),0.2464351381986018

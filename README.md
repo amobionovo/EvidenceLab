@@ -19,6 +19,20 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 07: Beyond Averages
+
+**Behavioural Profiling with Unsupervised Machine Learning.** Discover measured patterns in synthetic health and e-commerce data, compare clustering methods, and interpret profiles in original units. Includes journal-style figures, formatted tables and reproducible exports.
+
+[![Open Lesson 07 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Journal.ipynb)
+
+[Explore Lesson 07](lessons/07-behavioural-profiling/README.md) · [View the notebook](lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Journal.ipynb)
+
+![Lesson 07 infographic](lessons/07-behavioural-profiling/assets/behavioural_profiling_infographic.png)
+
+![Lesson 07 video preview: Beyond Averages](lessons/07-behavioural-profiling/assets/behavioural_profiling_thumbnail.png)
+
+YouTube publication pending.
+
 ## Lesson 06: Exploratory Data Analysis
 
 **The pattern I almost dismissed.** Investigate data quality, distributions, unusual values and relationships before fitting a model. Follow the Framingham example from question to evidence, and distinguish inferential modeling from prediction.

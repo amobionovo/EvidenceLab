@@ -1,0 +1,12 @@
+Attribute,Type,Observed n,Missing n,Missing (%)
+Orders (12 months),Numeric,1500,0,0.0
+Mean order value (currency units),Numeric,1440,60,4.0
+Discount share (0–1),Numeric,1500,0,0.0
+Return rate (0–1),Numeric,1410,90,6.0
+Days since purchase,Numeric,1500,0,0.0
+Sessions (30 days),Numeric,1500,0,0.0
+Cart abandonment (0–1),Numeric,1425,75,5.0
+Product category,Categorical,1500,0,0.0
+Acquisition channel,Categorical,1455,45,3.0
+Device,Categorical,1500,0,0.0
+Loyalty member,Categorical,1500,0,0.0

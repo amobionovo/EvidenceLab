@@ -1,0 +1,33 @@
+attribute,level,cluster,n,denominator,percent
+category,Beauty,0,158,750,21.066666666666666
+category,Beauty,1,124,750,16.533333333333335
+category,Electronics,0,162,750,21.6
+category,Electronics,1,149,750,19.866666666666667
+category,Fashion,0,144,750,19.2
+category,Fashion,1,156,750,20.8
+category,Grocery,0,133,750,17.733333333333334
+category,Grocery,1,158,750,21.066666666666666
+category,Home,0,153,750,20.4
+category,Home,1,163,750,21.733333333333334
+acquisition_channel,Email,0,144,750,19.2
+acquisition_channel,Email,1,146,750,19.466666666666665
+acquisition_channel,Missing,0,21,750,2.8
+acquisition_channel,Missing,1,24,750,3.2
+acquisition_channel,Organic,0,135,750,18.0
+acquisition_channel,Organic,1,143,750,19.066666666666666
+acquisition_channel,Paid search,0,171,750,22.8
+acquisition_channel,Paid search,1,143,750,19.066666666666666
+acquisition_channel,Referral,0,138,750,18.4
+acquisition_channel,Referral,1,160,750,21.333333333333332
+acquisition_channel,Social,0,141,750,18.8
+acquisition_channel,Social,1,134,750,17.866666666666667
+device,Desktop,0,229,750,30.533333333333335
+device,Desktop,1,223,750,29.733333333333334
+device,Mobile,0,488,750,65.06666666666666
+device,Mobile,1,497,750,66.26666666666667
+device,Tablet,0,33,750,4.4
+device,Tablet,1,30,750,4.0
+loyalty_member,No,0,470,750,62.666666666666664
+loyalty_member,No,1,480,750,64.0
+loyalty_member,Yes,0,280,750,37.333333333333336
+loyalty_member,Yes,1,270,750,36.0

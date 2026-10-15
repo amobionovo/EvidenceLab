@@ -1,0 +1,30 @@
+{
+  "fresh_kernel_runs": 2,
+  "cells": 41,
+  "code_cells": 18,
+  "errors": 0,
+  "analysis_cell_warnings": 0,
+  "figures": 16,
+  "formatted_tables": 27,
+  "identical_export_files": 202,
+  "different_exports": [],
+  "source_scientific_metrics": "unchanged within absolute tolerance 1e-12",
+  "original_notebook": "preserved byte-for-byte",
+  "png_resolution": "300 dpi",
+  "figure_exports": [
+    "PNG",
+    "SVG",
+    "PDF"
+  ],
+  "table_exports": [
+    "CSV",
+    "HTML",
+    "PNG",
+    "SVG",
+    "PDF"
+  ],
+  "private_paths_in_notebook": false,
+  "public_cover": "pinned public GitHub image verified HTTP 200",
+  "visual_review": "All figure and table contact sheets inspected; dense distributions, profile matrices and numeric/categorical tables inspected at enlarged resolution; HTML numeric profile table inspected in browser",
+  "hosted_colab": "pending"
+}
