@@ -36,11 +36,11 @@ The published Nigerian HIV example reports 11,589 records, 313 supported clinics
 
 ### Explainer preview
 
-![Lesson 07 video preview — Beyond Averages](assets/behavioural_profiling_thumbnail.png)
+[![Lesson 07 video preview — Beyond Averages](assets/behavioural_profiling_thumbnail.png)](https://youtu.be/EJFrvBTmLX8)
 
-[Download the final narrated explainer — 106.8 seconds, 1080p](video/EvidenceLab_07_FINAL_106_8s.mp4) · [Download subtitles](video/EvidenceLab_07_FINAL_106_8s.srt) · [High-resolution thumbnail](assets/behavioural_profiling_thumbnail_master.png)
+[Watch on YouTube](https://youtu.be/EJFrvBTmLX8) · [Download the final narrated explainer — 106.8 seconds, 1080p](video/EvidenceLab_07_FINAL_106_8s.mp4) · [Download subtitles](video/EvidenceLab_07_FINAL_106_8s.srt) · [High-resolution thumbnail](assets/behavioural_profiling_thumbnail_master.png)
 
-The final video retains Helena’s narration and includes animated clustering demonstrations, sequential workflow charts and the Nigerian HIV example. YouTube link pending; it will be added when supplied by the owner.
+The final video retains Helena’s narration and includes animated clustering demonstrations, sequential workflow charts and the Nigerian HIV example.
 
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health  

@@ -29,9 +29,9 @@ Epidemiology | Data Science | AI for Global Health
 
 ![Lesson 07 infographic](lessons/07-behavioural-profiling/assets/behavioural_profiling_infographic.png)
 
-![Lesson 07 video preview: Beyond Averages](lessons/07-behavioural-profiling/assets/behavioural_profiling_thumbnail.png)
+[![Lesson 07 video preview: Beyond Averages](lessons/07-behavioural-profiling/assets/behavioural_profiling_thumbnail.png)](https://youtu.be/EJFrvBTmLX8)
 
-[Download the final Lesson 07 explainer — 106.8 seconds](lessons/07-behavioural-profiling/video/EvidenceLab_07_FINAL_106_8s.mp4). YouTube link pending.
+[Watch Lesson 07 on YouTube](https://youtu.be/EJFrvBTmLX8) · [Download the final explainer — 106.8 seconds](lessons/07-behavioural-profiling/video/EvidenceLab_07_FINAL_106_8s.mp4).
 
 ## Lesson 06: Exploratory Data Analysis
 
