@@ -21,17 +21,17 @@ Epidemiology | Data Science | AI for Global Health
 
 ## Lesson 07: Beyond Averages
 
-**Behavioural Profiling with Unsupervised Machine Learning.** Discover measured patterns in synthetic health and e-commerce data, compare clustering methods, and interpret profiles in original units. Includes journal-style figures, formatted tables and reproducible exports.
+**Behavioural Profiling with Unsupervised Machine Learning.** Discover measured patterns in synthetic health and e-commerce data, compare clustering methods, and interpret profiles in original units. Includes a beginner-guided notebook, journal-style figures, horizontally scrollable tables and reproducible exports.
 
-[![Open Lesson 07 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Journal.ipynb)
+[![Open Lesson 07 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Beginner_Guided.ipynb)
 
-[Explore Lesson 07](lessons/07-behavioural-profiling/README.md) · [View the notebook](lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Journal.ipynb)
+[Explore Lesson 07](lessons/07-behavioural-profiling/README.md) · [View the notebook](lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Beginner_Guided.ipynb)
 
 ![Lesson 07 infographic](lessons/07-behavioural-profiling/assets/behavioural_profiling_infographic.png)
 
 ![Lesson 07 video preview: Beyond Averages](lessons/07-behavioural-profiling/assets/behavioural_profiling_thumbnail.png)
 
-YouTube publication pending.
+[Download the final Lesson 07 explainer — 106.8 seconds](lessons/07-behavioural-profiling/video/EvidenceLab_07_FINAL_106_8s.mp4). YouTube link pending.
 
 ## Lesson 06: Exploratory Data Analysis
 

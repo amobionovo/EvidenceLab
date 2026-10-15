@@ -4,11 +4,13 @@
 
 One population does not necessarily mean one set of needs. Explore synthetic global-health and e-commerce data, compare K-means and Ward hierarchical clustering, and interpret population profiles responsibly.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Journal.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Beginner_Guided.ipynb)
 
-[Read or download the notebook](EvidenceLab_07_Behavioural_Profiling_Journal.ipynb) · [Download journal-style outputs](EvidenceLab_07_Journal_Outputs.zip) · [Verification record](QA.json)
+[Read or download the beginner-guided notebook](EvidenceLab_07_Behavioural_Profiling_Beginner_Guided.ipynb) · [Download journal-style outputs](EvidenceLab_07_Journal_Outputs.zip) · [Verification record](QA.json)
 
 Select **Runtime → Run all**, then read from top to bottom. Both datasets are generated automatically; no upload or API key is needed.
+
+The final beginner-guided edition adds step-by-step explanations and learner questions. All 27 tables have horizontal scrollbars for viewing every column. The [journal edition](EvidenceLab_07_Behavioural_Profiling_Journal.ipynb) remains available.
 
 ### Figures and tables
 
@@ -36,7 +38,9 @@ The published Nigerian HIV example reports 11,589 records, 313 supported clinics
 
 ![Lesson 07 video preview — Beyond Averages](assets/behavioural_profiling_thumbnail.png)
 
-YouTube publication pending. Narrated review videos have been prepared locally; no public video URL is available yet.
+[Download the final narrated explainer — 106.8 seconds, 1080p](video/EvidenceLab_07_FINAL_106_8s.mp4) · [Download subtitles](video/EvidenceLab_07_FINAL_106_8s.srt) · [High-resolution thumbnail](assets/behavioural_profiling_thumbnail_master.png)
+
+The final video retains Helena’s narration and includes animated clustering demonstrations, sequential workflow charts and the Nigerian HIV example. YouTube link pending; it will be added when supplied by the owner.
 
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health  

@@ -1,0 +1,167 @@
+1
+00:00:00,000 --> 00:00:03,300
+One population does not necessarily mean one set
+
+2
+00:00:03,300 --> 00:00:03,940
+of needs.
+
+3
+00:00:04,620 --> 00:00:07,820
+Averages can hide differences between patients, customers and
+
+4
+00:00:07,820 --> 00:00:08,400
+communities.
+
+5
+00:00:09,157 --> 00:00:11,217
+Clustering helps us explore those differences.
+
+6
+00:00:11,877 --> 00:00:14,577
+Supervised learning uses labelled examples to learn a
+
+7
+00:00:14,577 --> 00:00:14,977
+target.
+
+8
+00:00:15,737 --> 00:00:18,797
+Unsupervised learning explores data without those target labels.
+
+9
+00:00:19,437 --> 00:00:21,277
+Clustering groups similar observations.
+
+10
+00:00:21,797 --> 00:00:23,677
+The profiles depend on what we measure.
+
+11
+00:00:24,377 --> 00:00:27,557
+K-means assigns observations to the nearest centre, then
+
+12
+00:00:27,557 --> 00:00:29,657
+updates each centre to its group mean.
+
+13
+00:00:30,337 --> 00:00:32,077
+It needs a chosen number of clusters and
+
+14
+00:00:32,077 --> 00:00:34,457
+favours compact, roughly spherical groups.
+
+15
+00:00:34,917 --> 00:00:37,957
+Agglomerative clustering merges observations into nested groups.
+
+16
+00:00:38,297 --> 00:00:39,797
+A dendrogram shows the hierarchy.
+
+17
+00:00:40,537 --> 00:00:43,157
+Cophenetic correlation checks how well its merge distances
+
+18
+00:00:43,157 --> 00:00:46,417
+reflect the original distances; it does not establish
+
+19
+00:00:46,417 --> 00:00:47,577
+meaningful profiles.
+
+20
+00:00:48,217 --> 00:00:52,937
+Explore missingness, then clean, encode and scale thoughtfully.
+
+21
+00:00:52,937 --> 00:00:56,337
+PCA can simplify the feature space, but may
+
+22
+00:00:56,337 --> 00:00:57,757
+discard useful structure.
+
+23
+00:00:58,317 --> 00:01:01,537
+Compare candidate cluster counts using silhouette scores, stability
+
+24
+00:01:01,877 --> 00:01:02,837
+and domain knowledge.
+
+25
+00:01:03,377 --> 00:01:05,597
+Interpret profiles using original variables.
+
+26
+00:01:06,337 --> 00:01:09,279
+In my published Nigerian HIV research, we analysed
+
+27
+00:01:09,279 --> 00:01:11,957
+eleven thousand five hundred and eighty-nine records reported
+
+28
+00:01:11,957 --> 00:01:13,891
+as lost to follow-up across three hundred and
+
+29
+00:01:13,891 --> 00:01:17,117
+thirteen USAID and PEPFAR-supported clinics.
+
+30
+00:01:17,937 --> 00:01:20,477
+Hierarchical clustering identified six profiles.
+
+31
+00:01:20,477 --> 00:01:24,117
+This described differences; it did not establish causes
+
+32
+00:01:24,117 --> 00:01:25,417
+or intervention effects.
+
+33
+00:01:26,237 --> 00:01:30,137
+Profiles can inform hypotheses about treatment-continuity support, customer
+
+34
+00:01:30,137 --> 00:01:32,197
+journeys and financial-service needs.
+
+35
+00:01:32,737 --> 00:01:35,217
+Validate those ideas with people who use the
+
+36
+00:01:35,217 --> 00:01:35,757
+services.
+
+37
+00:01:36,617 --> 00:01:39,157
+Clusters describe patterns, not causes.
+
+38
+00:01:39,677 --> 00:01:42,237
+Test tailored responses and evaluate equity.
+
+39
+00:01:43,017 --> 00:01:43,337
+EvidenceLab.
+
+40
+00:01:43,897 --> 00:01:44,197
+See it.
+
+41
+00:01:44,577 --> 00:01:45,337
+Understand it.
+
+42
+00:01:45,757 --> 00:01:46,137
+Run it.

@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-15",
+  "files": [
+    {
+      "file": "EvidenceLab_07_Behavioural_Profiling_Beginner_Guided.ipynb",
+      "bytes": 2085117,
+      "sha256": "9f52cd0ff9bcf7d32c3d70a053862d67d6f13645e264047f5833d41afc28fd7a"
+    },
+    {
+      "file": "video/EvidenceLab_07_FINAL_106_8s.mp4",
+      "bytes": 7526965,
+      "sha256": "4c09afb7c9d577059beab7504cf19d969b0acc88f9e3d7d3c506daed7e4d1bde"
+    },
+    {
+      "file": "video/EvidenceLab_07_FINAL_106_8s.srt",
+      "bytes": 3285,
+      "sha256": "23afbe9a59980f8b1c5b792db8de839d91511e6c04ff9673f9d6f6524d04245d"
+    },
+    {
+      "file": "assets/behavioural_profiling_infographic.png",
+      "bytes": 1914850,
+      "sha256": "c1bba9ddca9ac97180953eaabea1c3eafd70aa03bab202fd5323554ff2dd2271"
+    },
+    {
+      "file": "assets/behavioural_profiling_thumbnail_master.png",
+      "bytes": 105505,
+      "sha256": "6a5ecd52d906ed6161129cd517f2d894e84d6a4bd7c7cf1214d4a07a3b23bda3"
+    }
+  ],
+  "notebook": {
+    "cells": 60,
+    "code_cells": 18,
+    "saved_errors": 0,
+    "code_cells_identical_to_verified_journal": 18,
+    "horizontal_scroll_tables": 27,
+    "fresh_hosted_colab_execution": "not certified"
+  },
+  "video": {
+    "duration_seconds": 106.8,
+    "dimensions": "1920x1080",
+    "fps": 30,
+    "quiet_intervals_over_one_second": 0,
+    "voice": "Helena",
+    "human_listening": "not certified"
+  },
+  "youtube_url": null
+}
