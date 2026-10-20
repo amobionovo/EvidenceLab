@@ -24,13 +24,13 @@ The opening guide explains what to do when you encounter a code cell: **Run all*
 
 ### Explainer
 
-[![Lesson 08 video preview — One person. Two records?](assets/deduplication_thumbnail.png)](video/EvidenceLab_08_full_Helena_V3.mp4)
+[![Lesson 08 video preview — One person. Two records?](assets/deduplication_thumbnail.png)](https://www.youtube.com/watch?v=Arcg41h3-TU)
 
 [Download the full explainer — 4 minutes 49 seconds, 1080p](video/EvidenceLab_08_full_Helena_V3.mp4) · [Full subtitles](video/EvidenceLab_08_full_Helena_V3.srt) · [Transcript](video/EvidenceLab_08_Transcript.txt)
 
 [Download the vertical teaser — 31 seconds](video/EvidenceLab_08_short_Helena_V3.mp4) · [Teaser subtitles](video/EvidenceLab_08_short_Helena_V3.srt) · [Thumbnail master](assets/deduplication_thumbnail_master.png)
 
-**YouTube link pending.** The approved video is available above; its YouTube link will be added when supplied.
+[Watch the Lesson 08 explainer on YouTube](https://www.youtube.com/watch?v=Arcg41h3-TU).
 
 ### Interpret the workflow carefully
 

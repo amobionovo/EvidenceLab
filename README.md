@@ -29,9 +29,9 @@ Epidemiology | Data Science | AI for Global Health
 
 ![Lesson 08 infographic](lessons/08-deduplication-composite-key/assets/deduplication_infographic.png)
 
-[![Lesson 08 video preview — One person. Two records?](lessons/08-deduplication-composite-key/assets/deduplication_thumbnail.png)](lessons/08-deduplication-composite-key/video/EvidenceLab_08_full_Helena_V3.mp4)
+[![Lesson 08 video preview — One person. Two records?](lessons/08-deduplication-composite-key/assets/deduplication_thumbnail.png)](https://www.youtube.com/watch?v=Arcg41h3-TU)
 
-[Download the approved explainer — 4:49, 1080p](lessons/08-deduplication-composite-key/video/EvidenceLab_08_full_Helena_V3.mp4) · [Vertical teaser — 31 seconds](lessons/08-deduplication-composite-key/video/EvidenceLab_08_short_Helena_V3.mp4). YouTube link pending.
+[Watch Lesson 08 on YouTube](https://www.youtube.com/watch?v=Arcg41h3-TU) · [Download the approved explainer — 4:49, 1080p](lessons/08-deduplication-composite-key/video/EvidenceLab_08_full_Helena_V3.mp4) · [Vertical teaser — 31 seconds](lessons/08-deduplication-composite-key/video/EvidenceLab_08_short_Helena_V3.mp4).
 
 ## Lesson 07: Beyond Averages
 
