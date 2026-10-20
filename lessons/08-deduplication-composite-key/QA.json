@@ -1,0 +1,16 @@
+{
+  "change_scope": "Opening markdown only: requested beginner instructions and journey, plus a public thumbnail URL.",
+  "cells": 38,
+  "code_cells": 22,
+  "all_code_cells_identical": true,
+  "code_cells_sha256_before": "f8ead1aaf42b14051de873e1208bf3b291179fcf359d312526fe307261a18d53",
+  "code_cells_sha256_after": "f8ead1aaf42b14051de873e1208bf3b291179fcf359d312526fe307261a18d53",
+  "all_cells_after_opening_identical": true,
+  "saved_outputs_identical": true,
+  "scientific_interpretation_unchanged": true,
+  "notebook_format": "PASS",
+  "analysis_rerun": false,
+  "validation_method": "Exact comparison of every code cell including source, execution count, metadata and saved outputs; all later markdown cells identical. The only changed cell is opening markdown.",
+  "prior_validation": "The supplied executed notebook retains its existing outputs. This markdown-only revision does not claim a new hosted Colab execution.",
+  "public_cover_url": "https://raw.githubusercontent.com/amobionovo/EvidenceLab/main/lessons/08-deduplication-composite-key/assets/deduplication_thumbnail.png"
+}

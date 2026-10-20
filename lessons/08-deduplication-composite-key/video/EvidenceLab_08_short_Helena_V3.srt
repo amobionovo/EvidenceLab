@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:03,020
+Your dashboard can be correct. Your code can
+
+2
+00:00:03,020 --> 00:00:06,660
+run perfectly. Your model can converge. And your
+
+3
+00:00:06,660 --> 00:00:09,360
+answer can still be wrong. Imagine ten thousand
+
+4
+00:00:09,360 --> 00:00:12,500
+reported records. Are they really ten thousand different
+
+5
+00:00:12,500 --> 00:00:12,870
+people?
+
+6
+00:00:12,950 --> 00:00:15,480
+Meet Amina, a synthetic person in our example.
+
+7
+00:00:15,950 --> 00:00:18,410
+She registers at Clinic A, then moves and
+
+8
+00:00:18,410 --> 00:00:21,070
+registers at Clinic B. One record says Amina
+
+9
+00:00:21,070 --> 00:00:21,300
+K.
+
+10
+00:00:21,380 --> 00:00:23,610
+A match is a flag, not a verdict.
+
+11
+00:00:23,690 --> 00:00:26,000
+Now run the EvidenceLab notebook.
+
+12
+00:00:26,080 --> 00:00:30,850
+EvidenceLab. See it. Understand it. Run it.

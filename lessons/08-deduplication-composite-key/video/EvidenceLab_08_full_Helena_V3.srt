@@ -1,0 +1,347 @@
+1
+00:00:00,000 --> 00:00:03,020
+Your dashboard can be correct. Your code can
+
+2
+00:00:03,020 --> 00:00:06,660
+run perfectly. Your model can converge. And your
+
+3
+00:00:06,660 --> 00:00:09,360
+answer can still be wrong. Imagine ten thousand
+
+4
+00:00:09,360 --> 00:00:12,500
+reported records. Are they really ten thousand different
+
+5
+00:00:12,500 --> 00:00:15,440
+people? The problem may have started before the
+
+6
+00:00:15,440 --> 00:00:16,290
+analysis began.
+
+7
+00:00:17,200 --> 00:00:19,730
+Meet Amina, a synthetic person in our example.
+
+8
+00:00:20,200 --> 00:00:22,660
+She registers at Clinic A, then moves and
+
+9
+00:00:22,660 --> 00:00:25,320
+registers at Clinic B. One record says Amina
+
+10
+00:00:25,320 --> 00:00:28,040
+K. Another uses capital letters. Her date of
+
+11
+00:00:28,040 --> 00:00:30,180
+birth and phone number look different because the
+
+12
+00:00:30,180 --> 00:00:33,480
+formats changed. Two records do not necessarily mean
+
+13
+00:00:33,480 --> 00:00:37,440
+two people. Mobility, re-registration and disconnected systems can
+
+14
+00:00:37,440 --> 00:00:38,650
+all create this problem.
+
+15
+00:00:39,360 --> 00:00:42,820
+Suppose adjudication establishes nine thousand two hundred unique
+
+16
+00:00:42,820 --> 00:00:45,618
+people among ten thousand records. That leaves eight
+
+17
+00:00:45,618 --> 00:00:48,344
+hundred extra records. Divide eight hundred by nine
+
+18
+00:00:48,344 --> 00:00:51,240
+thousand two hundred: the apparent overcount is about
+
+19
+00:00:51,240 --> 00:00:55,539
+eight point seven percent. The denominator matters. Inflated
+
+20
+00:00:55,539 --> 00:00:58,879
+counts can distort coverage, resource allocation and downstream
+
+21
+00:00:58,879 --> 00:01:02,999
+analysis. Correct arithmetic cannot repair a mistaken unit
+
+22
+00:01:02,999 --> 00:01:03,429
+of counting.
+
+23
+00:01:03,919 --> 00:01:05,439
+Over the years, I have used a practical
+
+24
+00:01:05,439 --> 00:01:08,369
+data-quality memory framework: V I P, R T.
+
+25
+00:01:09,179 --> 00:01:13,559
+Validity. Integrity. Precision. Reliability. Timeliness. This is my
+
+26
+00:01:13,559 --> 00:01:17,239
+memory aid, rather than a universal taxonomy. Deduplication
+
+27
+00:01:17,239 --> 00:01:20,399
+can affect several dimensions. Today, the question is
+
+28
+00:01:20,399 --> 00:01:23,119
+whether two records represent two entities, or one
+
+29
+00:01:23,119 --> 00:01:24,329
+entity represented twice.
+
+30
+00:01:24,629 --> 00:01:28,289
+When a reliable unique identifier is unavailable, combine
+
+31
+00:01:28,289 --> 00:01:32,149
+selected, standardized attributes into a composite key. Our
+
+32
+00:01:32,149 --> 00:01:34,949
+teaching example uses date of birth, sex and
+
+33
+00:01:34,949 --> 00:01:39,309
+district. First, standardize capitalization and formats. Then build
+
+34
+00:01:39,309 --> 00:01:41,249
+the key and use it to form candidate
+
+35
+00:01:41,249 --> 00:01:44,349
+groups. Select fields with stakeholders under an approved
+
+36
+00:01:44,349 --> 00:01:47,176
+protocol. An identical key can occur for different
+
+37
+00:01:47,176 --> 00:01:49,696
+people. A missing or changed district can also
+
+38
+00:01:49,696 --> 00:01:52,566
+separate records that really belong together.
+
+39
+00:01:52,866 --> 00:01:56,456
+The workflow starts with co-design. Standardize the records.
+
+40
+00:01:57,246 --> 00:01:59,966
+Build the key. Block records to avoid comparing
+
+41
+00:01:59,966 --> 00:02:03,686
+every possible pair. Compare exact and, where appropriate,
+
+42
+00:02:03,686 --> 00:02:07,946
+fuzzy fields. Flag candidates. Then adjudicate using permitted
+
+43
+00:02:07,946 --> 00:02:11,886
+source information. A name similarity of ninety-six percent
+
+44
+00:02:11,886 --> 00:02:14,766
+is not a ninety-six percent probability that two
+
+45
+00:02:14,766 --> 00:02:18,146
+people are the same. Review can establish a
+
+46
+00:02:18,146 --> 00:02:23,066
+confirmed duplicate, or separate people. Resolve only supported
+
+47
+00:02:23,066 --> 00:02:26,366
+links and preserve an audit trail. A match
+
+48
+00:02:26,366 --> 00:02:28,196
+is a flag, not a verdict.
+
+49
+00:02:28,668 --> 00:02:31,428
+There is no magic threshold. Lowering it can
+
+50
+00:02:31,428 --> 00:02:34,058
+capture more duplicates while creating more false matches.
+
+51
+00:02:34,868 --> 00:02:38,348
+Raising it can miss genuine duplicates. Validate precision
+
+52
+00:02:38,348 --> 00:02:41,428
+and recall for your setting. Also measure what
+
+53
+00:02:41,428 --> 00:02:44,468
+blocking missed. In our synthetic notebook, the key
+
+54
+00:02:44,468 --> 00:02:47,888
+retains five hundred fifty-two of six hundred true
+
+55
+00:02:47,888 --> 00:02:53,968
+duplicate pairs: ninety-two percent blocking recall. Candidate-pair recall
+
+56
+00:02:53,968 --> 00:02:56,998
+alone hides those forty-eight missed pairs.
+
+57
+00:02:57,078 --> 00:03:01,468
+Reliable, governed unique identifiers can support exact matching.
+
+58
+00:03:01,938 --> 00:03:05,718
+Composite-key and probabilistic approaches can generate candidates where
+
+59
+00:03:05,718 --> 00:03:10,158
+reliable identifiers are unavailable. Neither national identifiers nor
+
+60
+00:03:10,158 --> 00:03:14,978
+biometrics are infallible. Missing, erroneous or incorrectly linked
+
+61
+00:03:14,978 --> 00:03:19,358
+identifiers still need quality checks. Real-world linkage requires
+
+62
+00:03:19,358 --> 00:03:23,658
+an approved protocol, privacy safeguards, minimum-necessary information,
+
+63
+00:03:23,658 --> 00:03:28,358
+secure processing, appropriate ethics and governance review, and
+
+64
+00:03:28,358 --> 00:03:29,848
+documented adjudication.
+
+65
+00:03:30,718 --> 00:03:34,118
+The same question reaches far beyond health. A
+
+66
+00:03:34,118 --> 00:03:37,158
+student transfers schools. A customer joins through two
+
+67
+00:03:37,158 --> 00:03:40,628
+channels. A beneficiary appears on multiple assistance lists.
+
+68
+00:03:41,358 --> 00:03:44,738
+One shopper creates several accounts. Government records span
+
+69
+00:03:44,738 --> 00:03:48,618
+disconnected systems. In each case, decide what entity
+
+70
+00:03:48,618 --> 00:03:50,988
+you are counting before you interpret the total.
+
+71
+00:03:51,203 --> 00:03:53,536
+Duplicates can change the weight that particular people
+
+72
+00:03:53,536 --> 00:03:56,886
+receive in an analysis. That can shift distributions,
+
+73
+00:03:57,396 --> 00:04:00,881
+coefficient estimates, uncertainty and model behavior. The notebook
+
+74
+00:04:00,881 --> 00:04:04,121
+compares duplicated records with an oracle benchmark built
+
+75
+00:04:04,121 --> 00:04:07,071
+from known synthetic truth. That benchmark is not
+
+76
+00:04:07,071 --> 00:04:10,571
+proof the matching workflow found every duplicate. Its
+
+77
+00:04:10,571 --> 00:04:13,671
+training A U C is an illustration, not
+
+78
+00:04:13,671 --> 00:04:15,521
+a claim of predictive validation.
+
+79
+00:04:16,151 --> 00:04:20,331
+Now run the EvidenceLab notebook. Generate five thousand
+
+80
+00:04:20,331 --> 00:04:23,381
+synthetic people and five thousand six hundred records.
+
+81
+00:04:23,751 --> 00:04:27,911
+Standardize fields, build the key, inspect candidates and
+
+82
+00:04:27,911 --> 00:04:31,627
+compare thresholds. Watch end-to-end recall as well as
+
+83
+00:04:31,627 --> 00:04:35,017
+precision. Keep the raw data and document decisions.
+
+84
+00:04:35,767 --> 00:04:37,987
+Before you trust the model, make sure you
+
+85
+00:04:37,987 --> 00:04:40,367
+can trust the records that built it. Better
+
+86
+00:04:40,367 --> 00:04:45,697
+data. Better analysis. Better models. Better decisions. EvidenceLab.
+
+87
+00:04:46,087 --> 00:04:49,097
+See it. Understand it. Run it.

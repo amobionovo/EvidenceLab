@@ -1,0 +1,3 @@
+*.ipynb -text
+video/*.srt -text
+QA.json -text

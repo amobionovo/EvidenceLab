@@ -19,6 +19,20 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 08: When One Person Becomes Two
+
+**Deduplication with composite keys and record linkage.** Follow the prepared analysis from synthetic records to candidate matching, adjudication and downstream models. **No coding required:** select **Runtime → Run all** and follow the explanations, charts and tables.
+
+[![Open Lesson 08 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/08-deduplication-composite-key/EvidenceLab_08_Deduplication_Composite_Key_FIXED.ipynb)
+
+[Explore Lesson 08](lessons/08-deduplication-composite-key/README.md) · [View the notebook](lessons/08-deduplication-composite-key/EvidenceLab_08_Deduplication_Composite_Key_FIXED.ipynb)
+
+![Lesson 08 infographic](lessons/08-deduplication-composite-key/assets/deduplication_infographic.png)
+
+[![Lesson 08 video preview — One person. Two records?](lessons/08-deduplication-composite-key/assets/deduplication_thumbnail.png)](lessons/08-deduplication-composite-key/video/EvidenceLab_08_full_Helena_V3.mp4)
+
+[Download the approved explainer — 4:49, 1080p](lessons/08-deduplication-composite-key/video/EvidenceLab_08_full_Helena_V3.mp4) · [Vertical teaser — 31 seconds](lessons/08-deduplication-composite-key/video/EvidenceLab_08_short_Helena_V3.mp4). YouTube link pending.
+
 ## Lesson 07: Beyond Averages
 
 **Behavioural Profiling with Unsupervised Machine Learning.** Discover measured patterns in synthetic health and e-commerce data, compare clustering methods, and interpret profiles in original units. Includes a beginner-guided notebook, journal-style figures, horizontally scrollable tables and reproducible exports.
