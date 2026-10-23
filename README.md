@@ -25,9 +25,9 @@ Epidemiology | Data Science | AI for Global Health
 
 **The goal is not to predict every outbreak. The goal is to create more useful lead time before an emerging threat becomes an emergency.**
 
-[Explore Lesson 09](lessons/09-anticipatory-epidemic-intelligence/README.md) · [Watch the explainer on YouTube](https://youtu.be/AA1HSFzl-kM)
+[Explore Lesson 09](lessons/09-anticipatory-epidemic-intelligence/README.md) · [Watch the explainer on YouTube](https://youtu.be/1EKMhVoVA5w)
 
-[![EvidenceLab #09 video preview: Can We See the Next Outbreak Coming?](lessons/09-anticipatory-epidemic-intelligence/assets/anticipatory_epidemic_intelligence_thumbnail.png)](https://youtu.be/AA1HSFzl-kM)
+[![EvidenceLab #09 video preview: Can We See the Next Outbreak Coming?](lessons/09-anticipatory-epidemic-intelligence/assets/anticipatory_epidemic_intelligence_thumbnail.png)](https://youtu.be/1EKMhVoVA5w)
 
 ![Final EvidenceLab #09 infographic: Anticipatory Epidemic Intelligence](lessons/09-anticipatory-epidemic-intelligence/assets/anticipatory_epidemic_intelligence_infographic.png)
 

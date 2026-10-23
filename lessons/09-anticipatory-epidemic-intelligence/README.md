@@ -4,9 +4,9 @@
 
 **The goal is not to predict every outbreak. The goal is to create more useful lead time before an emerging threat becomes an emergency.**
 
-[![Watch EvidenceLab #09: Can We See the Next Outbreak Coming?](assets/anticipatory_epidemic_intelligence_thumbnail.png)](https://youtu.be/AA1HSFzl-kM)
+[![Watch EvidenceLab #09: Can We See the Next Outbreak Coming?](assets/anticipatory_epidemic_intelligence_thumbnail.png)](https://youtu.be/1EKMhVoVA5w)
 
-[Watch the full explainer on YouTube](https://youtu.be/AA1HSFzl-kM) · [Download the final infographic](assets/anticipatory_epidemic_intelligence_infographic.png) · [Download the thumbnail](assets/anticipatory_epidemic_intelligence_thumbnail.png)
+[Watch the full explainer on YouTube](https://youtu.be/1EKMhVoVA5w) · [Download the final infographic](assets/anticipatory_epidemic_intelligence_infographic.png) · [Download the thumbnail](assets/anticipatory_epidemic_intelligence_thumbnail.png)
 
 ### From fragmented signals to coordinated action
 
