@@ -19,6 +19,18 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 09: Can We See the Next Outbreak Coming?
+
+**Using the Delphi Method to Build Anticipatory Epidemic Intelligence.** Explore a proposed country-owned roadmap for prioritizing candidate signals, connecting multiple data sources and supporting earlier investigation and action.
+
+**The goal is not to predict every outbreak. The goal is to create more useful lead time before an emerging threat becomes an emergency.**
+
+[Explore Lesson 09](lessons/09-anticipatory-epidemic-intelligence/README.md) · [Watch the explainer on YouTube](https://youtu.be/AA1HSFzl-kM)
+
+[![EvidenceLab #09 video preview: Can We See the Next Outbreak Coming?](lessons/09-anticipatory-epidemic-intelligence/assets/anticipatory_epidemic_intelligence_thumbnail.png)](https://youtu.be/AA1HSFzl-kM)
+
+![Final EvidenceLab #09 infographic: Anticipatory Epidemic Intelligence](lessons/09-anticipatory-epidemic-intelligence/assets/anticipatory_epidemic_intelligence_infographic.png)
+
 ## Lesson 08: When One Person Becomes Two
 
 **Deduplication with composite keys and record linkage.** Follow the prepared analysis from synthetic records to candidate matching, adjudication and downstream models. **No coding required:** select **Runtime → Run all** and follow the explanations, charts and tables.
@@ -208,6 +220,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | 01 | 95% Confidence Interval vs 95% Credible Interval | [Explanation, infographic, and notebook](lessons/01-confidence-vs-credible-interval/README.md) |
 | 02 | Missing Data in Real Life | [Explanation, infographic, and notebook](lessons/02-missing-data/README.md) |
 | 06 | Exploratory Data Analysis | [Explanation, infographic, and notebook](lessons/06-exploratory-data-analysis/README.md) |
+| 09 | Anticipatory Epidemic Intelligence | [Explanation, infographic, and YouTube explainer](lessons/09-anticipatory-epidemic-intelligence/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 
