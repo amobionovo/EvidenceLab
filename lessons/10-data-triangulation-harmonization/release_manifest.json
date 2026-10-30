@@ -1,0 +1,23 @@
+{
+  "episode": 10,
+  "title": "Why One Dataset Is Not Enough",
+  "date": "2026-10-30",
+  "youtube_url": "https://youtu.be/ZILRjdjiwws",
+  "assets": [
+    {
+      "path": "lessons/10-data-triangulation-harmonization/assets/data_triangulation_infographic.png",
+      "sha256": "123dc52dc34fab67e550a46650193f9625f3819346d208ecc0ca1a44f7e1678c",
+      "bytes": 2314007
+    },
+    {
+      "path": "lessons/10-data-triangulation-harmonization/assets/data_triangulation_thumbnail.png",
+      "sha256": "e10e292e2edf1b51f8fe81a96063298ef538f796cb1642d0b4492edf0a7690a1",
+      "bytes": 1794692
+    },
+    {
+      "path": "lessons/10-data-triangulation-harmonization/assets/data_triangulation_thumbnail_3840x2160.jpg",
+      "sha256": "7e1f13b53bb983905204581c308dfa38c976602d60736e93c430943e2bf12bd0",
+      "bytes": 1050544
+    }
+  ]
+}

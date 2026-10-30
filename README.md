@@ -19,6 +19,16 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 10: Why One Dataset Is Not Enough
+
+**Data triangulation and harmonization for stronger outbreak intelligence.** Compare evidence across sources, make analytical inputs sufficiently comparable, and connect candidate signals to validation, investigation and action. This lesson advances Lesson 9's proposed country-led Delphi approach toward minimum datasets and shared standards.
+
+[Explore Lesson 10](lessons/10-data-triangulation-harmonization/README.md) · [Watch the explainer on YouTube](https://youtu.be/ZILRjdjiwws)
+
+[![EvidenceLab #10 video preview: One Dataset Is Not Enough](lessons/10-data-triangulation-harmonization/assets/data_triangulation_thumbnail.png)](https://youtu.be/ZILRjdjiwws)
+
+![Final EvidenceLab #10 infographic: data triangulation and harmonization](lessons/10-data-triangulation-harmonization/assets/data_triangulation_infographic.png)
+
 ## Lesson 09: Can We See the Next Outbreak Coming?
 
 **Using the Delphi Method to Build Anticipatory Epidemic Intelligence.** Explore a proposed country-owned roadmap for prioritizing candidate signals, connecting multiple data sources and supporting earlier investigation and action.
@@ -221,6 +231,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | 02 | Missing Data in Real Life | [Explanation, infographic, and notebook](lessons/02-missing-data/README.md) |
 | 06 | Exploratory Data Analysis | [Explanation, infographic, and notebook](lessons/06-exploratory-data-analysis/README.md) |
 | 09 | Anticipatory Epidemic Intelligence | [Explanation, infographic, and YouTube explainer](lessons/09-anticipatory-epidemic-intelligence/README.md) |
+| 10 | Data Triangulation and Harmonization | [Explanation, infographic, and YouTube explainer](lessons/10-data-triangulation-harmonization/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 
