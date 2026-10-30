@@ -23,9 +23,9 @@ Epidemiology | Data Science | AI for Global Health
 
 **Data triangulation and harmonization for stronger outbreak intelligence.** Compare evidence across sources, make analytical inputs sufficiently comparable, and connect candidate signals to validation, investigation and action. This lesson advances Lesson 9's proposed country-led Delphi approach toward minimum datasets and shared standards.
 
-[Explore Lesson 10](lessons/10-data-triangulation-harmonization/README.md) · [Watch the explainer on YouTube](https://youtu.be/ZILRjdjiwws)
+[Explore Lesson 10](lessons/10-data-triangulation-harmonization/README.md) · [Watch the explainer on YouTube](https://youtu.be/aIDAh_EtFj4)
 
-[![EvidenceLab #10 video preview: One Dataset Is Not Enough](lessons/10-data-triangulation-harmonization/assets/data_triangulation_thumbnail.png)](https://youtu.be/ZILRjdjiwws)
+[![EvidenceLab #10 video preview: One Dataset Is Not Enough](lessons/10-data-triangulation-harmonization/assets/data_triangulation_thumbnail.png)](https://youtu.be/aIDAh_EtFj4)
 
 ![Final EvidenceLab #10 infographic: data triangulation and harmonization](lessons/10-data-triangulation-harmonization/assets/data_triangulation_infographic.png)
 

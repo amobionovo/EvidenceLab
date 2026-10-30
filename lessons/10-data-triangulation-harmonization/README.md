@@ -4,9 +4,9 @@
 
 One dataset may answer one question. Connected datasets can reveal patterns, risks and opportunities for action that no single source can show alone.
 
-[![Watch EvidenceLab #10: Why One Dataset Is Not Enough](assets/data_triangulation_thumbnail.png)](https://youtu.be/ZILRjdjiwws)
+[![Watch EvidenceLab #10: Why One Dataset Is Not Enough](assets/data_triangulation_thumbnail.png)](https://youtu.be/aIDAh_EtFj4)
 
-[Watch the explainer on YouTube](https://youtu.be/ZILRjdjiwws) · [Download the final infographic](assets/data_triangulation_infographic.png) · [Download the thumbnail](assets/data_triangulation_thumbnail.png) · [YouTube-ready thumbnail JPEG](assets/data_triangulation_thumbnail_3840x2160.jpg)
+[Watch the explainer on YouTube](https://youtu.be/aIDAh_EtFj4) · [Download the final infographic](assets/data_triangulation_infographic.png) · [Download the thumbnail](assets/data_triangulation_thumbnail.png) · [YouTube-ready thumbnail JPEG](assets/data_triangulation_thumbnail_3840x2160.jpg)
 
 ### Compare evidence and make it comparable
 
