@@ -20,4 +20,4 @@ The reported regional associations are observational. Adjusted R² is a model-fi
 
 ## Watch it
 
-The YouTube link will be added when available.
+[Watch the Lesson 11 explainer on YouTube](https://youtu.be/55_w2VwQGbI)

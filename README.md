@@ -25,7 +25,9 @@ Epidemiology | Data Science | AI for Global Health
 
 [Explore Lesson 11](lessons/11-lasso-variable-selection/README.md) · [Open the notebook in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/11-lasso-variable-selection/EvidenceLab_11_Lasso_Data_Cleaning_Interactive_Colab_v2_EXECUTED.ipynb)
 
-[![EvidenceLab #11 thumbnail](lessons/11-lasso-variable-selection/assets/lasso_thumbnail.png)](lessons/11-lasso-variable-selection/README.md)
+[Watch the Lesson 11 explainer on YouTube](https://youtu.be/55_w2VwQGbI)
+
+[![EvidenceLab #11 thumbnail](lessons/11-lasso-variable-selection/assets/lasso_thumbnail.png)](https://youtu.be/55_w2VwQGbI)
 
 ## Lesson 10: Why One Dataset Is Not Enough
 
