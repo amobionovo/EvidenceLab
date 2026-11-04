@@ -19,6 +19,14 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 11: Why These Four?
+
+**Lasso variable selection and geographically weighted regression.** Follow the Tanzania AIDS 2024 example from 49 variables to four Lasso selections and three indicators explored geographically.
+
+[Explore Lesson 11](lessons/11-lasso-variable-selection/README.md) · [Open the notebook in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/11-lasso-variable-selection/EvidenceLab_11_Lasso_Data_Cleaning_Interactive_Colab_v2_EXECUTED.ipynb)
+
+[![EvidenceLab #11 thumbnail](lessons/11-lasso-variable-selection/assets/lasso_thumbnail.png)](lessons/11-lasso-variable-selection/README.md)
+
 ## Lesson 10: Why One Dataset Is Not Enough
 
 **Data triangulation and harmonization for stronger outbreak intelligence.** Compare evidence across sources, make analytical inputs sufficiently comparable, and connect candidate signals to validation, investigation and action. This lesson advances Lesson 9's proposed country-led Delphi approach toward minimum datasets and shared standards.
@@ -232,6 +240,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | 06 | Exploratory Data Analysis | [Explanation, infographic, and notebook](lessons/06-exploratory-data-analysis/README.md) |
 | 09 | Anticipatory Epidemic Intelligence | [Explanation, infographic, and YouTube explainer](lessons/09-anticipatory-epidemic-intelligence/README.md) |
 | 10 | Data Triangulation and Harmonization | [Explanation, infographic, and YouTube explainer](lessons/10-data-triangulation-harmonization/README.md) |
+| 11 | Lasso Variable Selection and GWR | [Explanation, infographic, and Colab notebook](lessons/11-lasso-variable-selection/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 
