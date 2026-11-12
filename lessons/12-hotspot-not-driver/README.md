@@ -19,4 +19,4 @@ Choose **Runtime → Run all**. The notebook generates the teaching data and ret
 
 ## Watch it
 
-The explainer link will be added when available.
+[Watch the Lesson 12 explainer on YouTube](https://youtu.be/X31gBdI5FdI)

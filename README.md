@@ -25,7 +25,9 @@ Compare a choropleth, Getis–Ord Gi*, and geographically weighted regression us
 
 [Explore Lesson 12](lessons/12-hotspot-not-driver/README.md) · [Open in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/12-hotspot-not-driver/EvidenceLab_12_Hotspot_vs_GWR_Colab_v4_GiStar_Executed.ipynb)
 
-[![EvidenceLab #12 thumbnail](lessons/12-hotspot-not-driver/assets/hotspot_thumbnail.jpg)](lessons/12-hotspot-not-driver/README.md)
+[Watch the Lesson 12 explainer on YouTube](https://youtu.be/X31gBdI5FdI)
+
+[![EvidenceLab #12 thumbnail](lessons/12-hotspot-not-driver/assets/hotspot_thumbnail.jpg)](https://youtu.be/X31gBdI5FdI)
 
 ## Lesson 11: Why These Four?
 
