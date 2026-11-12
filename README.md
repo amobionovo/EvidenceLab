@@ -19,6 +19,14 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 12: Hotspot ≠ Driver
+
+Compare a choropleth, Getis–Ord Gi*, and geographically weighted regression using a synthetic spatial example. The lesson connects the methods to HIV research in Nigeria and Tanzania.
+
+[Explore Lesson 12](lessons/12-hotspot-not-driver/README.md) · [Open in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/12-hotspot-not-driver/EvidenceLab_12_Hotspot_vs_GWR_Colab_v4_GiStar_Executed.ipynb)
+
+[![EvidenceLab #12 thumbnail](lessons/12-hotspot-not-driver/assets/hotspot_thumbnail.jpg)](lessons/12-hotspot-not-driver/README.md)
+
 ## Lesson 11: Why These Four?
 
 **Lasso variable selection and geographically weighted regression.** Follow the Tanzania AIDS 2024 example from 49 variables to four Lasso selections and three indicators explored geographically.
@@ -243,6 +251,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | 09 | Anticipatory Epidemic Intelligence | [Explanation, infographic, and YouTube explainer](lessons/09-anticipatory-epidemic-intelligence/README.md) |
 | 10 | Data Triangulation and Harmonization | [Explanation, infographic, and YouTube explainer](lessons/10-data-triangulation-harmonization/README.md) |
 | 11 | Lasso Variable Selection and GWR | [Explanation, infographic, and Colab notebook](lessons/11-lasso-variable-selection/README.md) |
+| 12 | Hotspot ≠ Driver | [Infographic and Colab notebook](lessons/12-hotspot-not-driver/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 
