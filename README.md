@@ -19,6 +19,14 @@ Each lesson combines:
 Created by **Dr. Amobi Andrew Onovo, PhD, MPH**  
 Epidemiology | Data Science | AI for Global Health
 
+## Lesson 13: No Data ≠ No Risk
+
+Explore empirical Bayesian kriging, sparse surveillance, and the distinction between observed reports and spatial estimates.
+
+[Explore Lesson 13](lessons/13-no-data-not-no-risk/README.md) · [Download the 4K explainer](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk)
+
+[![EvidenceLab #13 thumbnail](lessons/13-no-data-not-no-risk/assets/no_data_not_no_risk_thumbnail.jpg)](lessons/13-no-data-not-no-risk/README.md)
+
 ## Lesson 12: Hotspot ≠ Driver
 
 Compare a choropleth, Getis–Ord Gi*, and geographically weighted regression using a synthetic spatial example. The lesson connects the methods to HIV research in Nigeria and Tanzania.
@@ -254,6 +262,7 @@ For a local Jupyter environment, install the lesson dependencies with `pip insta
 | 10 | Data Triangulation and Harmonization | [Explanation, infographic, and YouTube explainer](lessons/10-data-triangulation-harmonization/README.md) |
 | 11 | Lasso Variable Selection and GWR | [Explanation, infographic, and Colab notebook](lessons/11-lasso-variable-selection/README.md) |
 | 12 | Hotspot ≠ Driver | [Infographic and Colab notebook](lessons/12-hotspot-not-driver/README.md) |
+| 13 | No Data ≠ No Risk | [Infographic, explainer, and research context](lessons/13-no-data-not-no-risk/README.md) |
 
 Future lessons can follow the same numbered folder structure under `lessons/`.
 

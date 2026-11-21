@@ -1,0 +1,197 @@
+1
+00:00:01,600 --> 00:00:03,689
+When part of an outbreak map is blank,
+
+2
+00:00:03,739 --> 00:00:04,807
+what does it mean?
+
+3
+00:00:05,857 --> 00:00:09,418
+Were zero cases reported,
+or were no data available?
+
+4
+00:00:10,068 --> 00:00:12,133
+These are two very different situations.
+
+5
+00:00:12,433 --> 00:00:15,095
+Neither proves there was no transmission.
+
+6
+00:00:17,245 --> 00:00:21,663
+In March 2020, as COVID-19
+emerged across sub-Saharan Africa,
+
+7
+00:00:21,713 --> 00:00:25,873
+my colleagues and I examined reported
+outbreak patterns in 39 countries.
+
+8
+00:00:26,223 --> 00:00:29,793
+We wanted to understand what the
+available evidence could tell us during
+
+9
+00:00:29,843 --> 00:00:32,123
+a period of substantial uncertainty.
+
+10
+00:00:33,572 --> 00:00:36,906
+We combined COVID-19 surveillance
+data compiled by Johns Hopkins
+
+11
+00:00:36,956 --> 00:00:40,606
+University with publicly available
+health and demographic indicators
+
+12
+00:00:40,656 --> 00:00:45,604
+from the World Bank,
+WHO, UNICEF, and UNAIDS.
+
+13
+00:00:47,414 --> 00:00:50,164
+Integration gave us a broader
+view of the available evidence.
+
+14
+00:00:52,014 --> 00:00:55,326
+We used Lasso-based methods to
+examine candidate variables associated
+
+15
+00:00:55,376 --> 00:00:57,238
+with reported case counts.
+
+16
+00:00:57,927 --> 00:01:00,767
+Seven variables were statistically
+associated in the inferential
+
+17
+00:01:00,817 --> 00:01:02,046
+analysis.
+
+18
+00:01:02,696 --> 00:01:05,947
+These relationships were exploratory
+and should not be interpreted as
+
+19
+00:01:05,997 --> 00:01:07,394
+proof of causation.
+
+20
+00:01:09,444 --> 00:01:13,062
+Empirical Bayesian Kriging uses
+spatial relationships among observed
+
+21
+00:01:13,112 --> 00:01:16,712
+measurements to estimate patterns
+between those observations.
+
+22
+00:01:18,662 --> 00:01:23,052
+Through repeated simulations, it
+also accounts for uncertainty in the
+
+23
+00:01:23,102 --> 00:01:25,207
+fitted spatial correlation model.
+
+24
+00:01:27,357 --> 00:01:29,398
+The result is an estimated surface,
+
+25
+00:01:29,448 --> 00:01:33,108
+not a record of infections in
+locations without observations.
+
+26
+00:01:36,858 --> 00:01:40,778
+Our spatial maps helped us explore
+patterns in the available data.
+
+27
+00:01:41,128 --> 00:01:44,834
+But they could not tell us where
+infections had gone undetected.
+
+28
+00:01:45,384 --> 00:01:48,683
+An estimated hotspot is
+not a confirmed outbreak.
+
+29
+00:01:50,933 --> 00:01:54,191
+Consider Ebola preparedness in the
+Democratic Republic of the Congo and
+
+30
+00:01:54,241 --> 00:01:55,512
+neighboring areas.
+
+31
+00:01:55,962 --> 00:01:58,940
+Could spatial estimates, combined
+with reliable surveillance,
+
+32
+00:01:58,990 --> 00:02:01,720
+population, mobility,
+and testing information,
+
+33
+00:02:01,770 --> 00:02:05,012
+help teams decide where to
+investigate more closely?
+
+34
+00:02:05,562 --> 00:02:06,489
+Potentially.
+
+35
+00:02:06,939 --> 00:02:09,678
+But the estimates would need
+validation and local epidemiological
+
+36
+00:02:09,728 --> 00:02:12,285
+interpretation before informing action.
+
+37
+00:02:14,435 --> 00:02:17,782
+The goal is not to fill
+every blank on the map.
+
+38
+00:02:18,082 --> 00:02:23,054
+It is to use the evidence we have
+to decide where to look next,
+
+39
+00:02:23,104 --> 00:02:26,470
+without mistaking an
+estimate for an observation.
+
+40
+00:02:28,320 --> 00:02:29,530
+Follow Dr.
+
+41
+00:02:29,580 --> 00:02:32,012
+Amobi Andrew Onovo for more.
+
+42
+00:02:32,212 --> 00:02:35,086
+EvidenceLab. See it.
+
+43
+00:02:35,136 --> 00:02:37,933
+Understand it. Run it.
