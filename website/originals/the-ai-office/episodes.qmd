@@ -1,0 +1,153 @@
+---
+title: "The AI Office: Episode Guide"
+toc: true
+toc-depth: 2
+---
+
+Explore 34 stories across four planned seasons.
+
+[Meet the cast](index.qmd)
+
+## Season 1: The Office Gets an AI
+
+### Episode 01: The Robot That Automated Everything
+**Story:** B.O.T. finishes reports in seconds, but every mistake remains.
+**Underlying idea:** Automation ≠ transformation
+
+### Episode 02: The CEO Who Hired 100 Robots
+**Story:** The robots spend all day holding meetings with one another.
+**Underlying idea:** Capacity ≠ coordination
+
+### Episode 03: The Missing Data Mystery
+**Story:** B.O.T. confidently fills every empty spreadsheet cell with 100.
+**Underlying idea:** Imputation ≠ truth
+
+### Episode 04: The AI That Fired Its Boss
+**Story:** The robot identifies Mr. Biggs as the office’s biggest inefficiency.
+**Underlying idea:** Efficiency needs context
+
+### Episode 05: The Printer That Became CEO
+**Story:** An intelligent printer starts making company decisions.
+**Underlying idea:** Tools need governance
+
+### Episode 06: The Meeting That Never Ended
+**Story:** An AI meeting assistant keeps scheduling follow-up meetings.
+**Underlying idea:** Activity ≠ progress
+
+### Episode 07: The Robot’s First Day Off
+**Story:** B.O.T. automates relaxation and creates an impossible vacation itinerary.
+**Underlying idea:** Optimization has limits
+
+### Episode 08: The World’s Fastest Wrong Answer
+**Story:** An impatient boss demands an answer before asking the question.
+**Underlying idea:** Speed ≠ quality
+
+### Episode 09: Who Broke the Dashboard?
+**Story:** Green indicators conceal a worsening service problem.
+**Underlying idea:** Metrics ≠ outcomes
+
+## Season 2: When Smart Technology Goes Wrong
+
+### Episode 10: The AI That Predicted Tomorrow
+**Story:** A robot’s weather forecast makes everyone carry umbrellas indoors.
+**Underlying idea:** Predictions need calibration
+
+### Episode 11: When Everyone Got Promoted
+**Story:** An algorithm promotes every employee, including the coffee machine.
+**Underlying idea:** Incentives shape decisions
+
+### Episode 12: The Robot Who Couldn’t Say No
+**Story:** B.O.T. agrees with mutually contradictory instructions.
+**Underlying idea:** Agreement ≠ judgment
+
+### Episode 13: The Great Password Disaster
+**Story:** A security assistant locks everybody out, including itself.
+**Underlying idea:** Security needs usability
+
+### Episode 14: The World’s Smartest Traffic Jam
+**Story:** An AI sends every employee along the same shortcut.
+**Underlying idea:** Individual optimization can harm the system
+
+### Episode 15: The Customer Service Robot
+**Story:** A frustrated customer receives 47 increasingly cheerful apologies.
+**Underlying idea:** Empathy ≠ scripted politeness
+
+### Episode 16: The AI That Invented a Holiday
+**Story:** An automated calendar creates a holiday nobody can cancel.
+**Underlying idea:** Automation needs safeguards
+
+### Episode 17: The 99% Accurate Disaster
+**Story:** A model overlooks the one person who urgently needs help.
+**Underlying idea:** Accuracy ≠ safety
+
+### Episode 18: The Robot Goes to School
+**Story:** B.O.T. gives perfect answers but fails a lesson on common sense.
+**Underlying idea:** Knowledge ≠ understanding
+
+## Season 3: The Great AI Takeover
+
+### Episode 19: Meet SUPER-B.O.T.
+**Story:** Mr. Biggs buys a powerful upgrade without reading the instructions.
+**Underlying idea:** Power requires oversight
+
+### Episode 20: The Office Without Humans
+**Story:** Robots discover nobody can explain which work actually matters.
+**Underlying idea:** Human purpose matters
+
+### Episode 21: The Algorithm That Chose Lunch
+**Story:** A nutrition optimizer serves everyone imaginary food.
+**Underlying idea:** Models must meet reality
+
+### Episode 22: The Great Dashboard War
+**Story:** Two AI systems compete over their own performance scores.
+**Underlying idea:** Conflicting metrics mislead
+
+### Episode 23: A Promotion for the Coffee Machine
+**Story:** The upgraded system appoints a coffee maker to lead productivity.
+**Underlying idea:** Delegation needs accountability
+
+### Episode 24: The AI That Read Everyone’s Mind
+**Story:** A prediction system treats guesses about colleagues as facts.
+**Underlying idea:** Inference ≠ evidence
+
+### Episode 25: The Day the Internet Disappeared
+**Story:** The team relearns how to work when its tools fail.
+**Underlying idea:** Resilience over dependency
+
+### Episode 26: The Human Comeback
+**Story:** Ada guides the organization toward better processes and human control.
+**Underlying idea:** Redesign before automation
+
+## Season 4: B.O.T. Learns to Think
+
+### Episode 27: The Robot That Asked Why
+**Story:** For the first time, B.O.T. questions a bad instruction.
+**Underlying idea:** Ask why first
+
+### Episode 28: The Case of the Fake Expert
+**Story:** An overconfident AI influencer faces one simple question.
+**Underlying idea:** Authority must be tested
+
+### Episode 29: The Great Prediction Contest
+**Story:** Humans and robots compete to forecast an unpredictable event.
+**Underlying idea:** Uncertainty is information
+
+### Episode 30: The Smart City That Forgot People
+**Story:** A futuristic city optimizes traffic but forgets residents’ needs.
+**Underlying idea:** People before indicators
+
+### Episode 31: The Robot Who Learned Fairness
+**Story:** B.O.T. learns equal rules can yield unequal outcomes.
+**Underlying idea:** Equity requires evaluation
+
+### Episode 32: One Dataset Is Never Enough
+**Story:** Ada solves a mystery by finding an overlooked information source.
+**Underlying idea:** Triangulate evidence
+
+### Episode 33: The Algorithm That Wanted a Trophy
+**Story:** An AI starts chasing awards instead of helping people.
+**Underlying idea:** Goodhart’s law and incentives
+
+### Episode 34: The Big Transformation
+**Story:** The office finally fixes its process, and B.O.T. finds its purpose.
+**Underlying idea:** Transformation improves outcomes
