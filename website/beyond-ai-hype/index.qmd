@@ -1,0 +1,30 @@
+---
+title: "Beyond the AI Hype"
+subtitle: "What Really Matters"
+---
+
+A weekly thought-leadership series hosted by Dr. Amobi Andrew Onovo, exploring what actually makes AI useful, responsible, equitable and effective.
+
+## Core promise
+
+Every episode starts with a common assumption, challenges it using a relatable scenario, and ends with a practical question for leaders, teams and communities.
+
+## Episode 01: Automation ≠ Transformation
+
+*When we automate a broken process, we don't necessarily solve the problem. Sometimes, we simply make it happen faster.*
+
+If reporting moves from three days to three minutes but the data are incomplete and no one acts on the findings, the problem remains.
+
+**Before asking what we can automate, ask what we should change.**
+
+The digital-twin presentation is planned; no video has been published or embedded here yet.
+
+## Planned themes
+
+- More Data ≠ Better Decisions
+- AI Adoption ≠ AI Impact
+- Human-in-the-Loop ≠ Human-in-Control
+- Accuracy ≠ Trustworthiness
+- AI Skills ≠ AI Literacy
+
+[Meet the animated companions in The AI Office](../originals/the-ai-office/index.qmd)
