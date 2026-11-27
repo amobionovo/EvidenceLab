@@ -1,0 +1,87 @@
+---
+title: "EvidenceLab Lessons"
+toc: false
+---
+
+Explore statistics, epidemiology, and data science through visual explainers and worked examples. Where a notebook is available, open it in Colab and try changing the inputs.
+
+::: {.feature-grid}
+::: {.feature}
+### 01. 95% Confidence Interval vs 95% Credible Interval
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/01-confidence-vs-credible-interval/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/01-confidence-vs-credible-interval/confidence_vs_credible_intervals.ipynb)
+:::
+
+::: {.feature}
+### 02. Missing Data in Real Life
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/02-missing-data/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/02-missing-data/missing_data.ipynb) · [Watch explainer](https://youtu.be/FQw8KHLwz7E)
+:::
+
+::: {.feature}
+### 03. Competing Risks
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/03-competing-risks/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/03-competing-risks/competing_risks.ipynb) · [Watch explainer](https://youtu.be/K4AsjUVrxmk)
+:::
+
+::: {.feature}
+### 04. CFR vs IFR
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/04-cfr-vs-ifr/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/04-cfr-vs-ifr/EvidenceLab_04_CFR_vs_IFR_FINAL.ipynb) · [Watch explainer](https://youtu.be/GtSMh6veBxo)
+:::
+
+::: {.feature}
+### 05. Outlier and Anomaly Detection
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/05-outlier-anomaly-detection/EvidenceLab_05_Outliers_Anomalies_FINAL_v2.ipynb)
+:::
+
+::: {.feature}
+### 06. Exploratory Data Analysis
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/06-exploratory-data-analysis/EvidenceLab_06_Exploratory_Data_Analysis_Framingham_Interactive.ipynb) · [Watch explainer](https://www.youtube.com/watch?v=Ax0CZ8vyyvU)
+:::
+
+::: {.feature}
+### 07. Beyond Averages
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/07-behavioural-profiling/EvidenceLab_07_Behavioural_Profiling_Beginner_Guided.ipynb) · [Watch explainer](https://youtu.be/EJFrvBTmLX8)
+:::
+
+::: {.feature}
+### 08. When One Person Becomes Two
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/08-deduplication-composite-key/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/08-deduplication-composite-key/EvidenceLab_08_Deduplication_Composite_Key_FIXED.ipynb) · [Watch explainer](https://www.youtube.com/watch?v=Arcg41h3-TU)
+:::
+
+::: {.feature}
+### 09. Can We See the Next Outbreak Coming?
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/09-anticipatory-epidemic-intelligence/README.md) · [Watch explainer](https://youtu.be/1EKMhVoVA5w)
+:::
+
+::: {.feature}
+### 10. Why One Dataset Is Not Enough
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/10-data-triangulation-harmonization/README.md) · [Watch explainer](https://youtu.be/aIDAh_EtFj4)
+:::
+
+::: {.feature}
+### 11. Why These Four?
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/11-lasso-variable-selection/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/11-lasso-variable-selection/EvidenceLab_11_Lasso_Data_Cleaning_Interactive_Colab_v2_EXECUTED.ipynb) · [Watch explainer](https://youtu.be/55_w2VwQGbI)
+:::
+
+::: {.feature}
+### 12. Hotspot ≠ Driver
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/12-hotspot-not-driver/README.md) · [Run in Colab](https://colab.research.google.com/github/amobionovo/EvidenceLab/blob/main/lessons/12-hotspot-not-driver/EvidenceLab_12_Hotspot_vs_GWR_Colab_v4_GiStar_Executed.ipynb) · [Watch explainer](https://youtu.be/X31gBdI5FdI)
+:::
+
+::: {.feature}
+### 13. No Data ≠ No Risk
+
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/13-no-data-not-no-risk/README.md) · [Download explainer](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk)
+:::
+:::
+

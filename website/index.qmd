@@ -1,0 +1,39 @@
+---
+title: "EvidenceLab"
+title-block-style: none
+---
+
+::: {.hero}
+# See It. Understand It. Run It.
+
+Learn how to interpret evidence and put it to work. Explore open lessons in statistics and data science, practical perspectives on AI, and an original workplace comedy.
+
+[Explore the lessons](lessons.qmd){.btn .btn-light}
+:::
+
+::: {.feature-grid}
+::: {.feature}
+## EvidenceLab Lessons
+
+Visual explainers and reproducible notebooks on statistics, epidemiology, and data science.
+
+[Browse all 13 lessons](lessons.qmd)
+:::
+
+::: {.feature}
+## Beyond the AI Hype
+
+What really matters when organizations use AI to make decisions?
+
+[Read the series](beyond-ai-hype/index.qmd)
+:::
+
+::: {.feature}
+## The AI Office
+
+A workplace comedy about AI, data, and real-world decisions.
+
+[Meet the cast](originals/the-ai-office/index.qmd)
+:::
+:::
+

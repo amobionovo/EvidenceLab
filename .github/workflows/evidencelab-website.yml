@@ -1,0 +1,55 @@
+name: EvidenceLab website
+
+on:
+  pull_request:
+    paths:
+      - 'website/**'
+      - '.github/workflows/evidencelab-website.yml'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish to GitHub Pages
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render website
+        run: quarto render website
+      - name: Upload review preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: evidencelab-preview
+          path: website/_site
+          if-no-files-found: error
+      - name: Upload Pages artifact
+        if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: website/_site
+
+  deploy:
+    if: github.event_name == 'workflow_dispatch' && inputs.publish && github.ref_name == github.event.repository.default_branch
+    needs: build
+    runs-on: ubuntu-latest
+    concurrency: github-pages
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+

@@ -1,0 +1,53 @@
+---
+title: "The AI Office"
+subtitle: "An EvidenceLab Original animated comedy"
+---
+
+A workplace comedy about AI, data, and real-world decisions.
+
+![Mr. Biggs, B.O.T., Ada, and Dr. Insight in their official character lineup.](../../assets/ai-office-approved-cast.png)
+
+[Browse the 34-episode guide](episodes.qmd)
+
+## Meet the cast
+
+::: {.feature-grid .cast-grid}
+::: {.feature}
+### Mr. Biggs
+
+![Mr. Biggs in a navy suit and red tie, with a prominent mustache.](../../assets/mr-biggs-approved-crop.png)
+
+The visionary CEO tends to announce the solution before he understands the problem.
+:::
+
+::: {.feature}
+### B.O.T.
+
+![White-and-blue robot with glowing cyan eyes.](../../assets/bot-approved-crop.png)
+
+The office AI assistant follows instructions literally, with a talent for taking optimization too far.
+:::
+
+::: {.feature}
+### Ada
+
+![Ada wears a teal blazer and her hair in braids.](../../assets/ada-approved-crop.png)
+
+The practical data analyst spots gaps in the evidence and asks the question everyone else skipped.
+:::
+
+::: {.feature}
+### Dr. Insight
+
+![Dr. Insight wears glasses and a dark blazer, with short textured hair.](../../assets/dr-insight-approved-crop.png)
+
+The thoughtful guide connects the office mishaps to the decisions we face at work.
+:::
+:::
+
+## The pilot
+
+**The Robot That Automated Everything.** Mr. Biggs asks B.O.T. to cut reporting time from three days to three seconds. Ada discovers that the incomplete data made it through just as fast.
+
+The pilot is in development.
+
