@@ -84,7 +84,7 @@ body:has(.el-home) #quarto-header .navbar { background:var(--navy,#071b2b)!impor
     <p class="el-kicker">Featured lesson · 13</p>
     <h2 id="el-story-title">No Data ≠ No Risk</h2>
     <p>How do we interpret risk when surveillance data are sparse? Explore what empirical Bayesian kriging can estimate between observations and why the uncertainty matters.</p>
-    <p><a class="el-link" href="https://github.com/amobionovo/EvidenceLab/blob/main/lessons/13-no-data-not-no-risk/README.md">Read Lesson 13</a> · <a class="el-link" href="https://github.com/amobionovo/EvidenceLab/releases/download/lesson-13-no-data-not-no-risk/EvidenceLab13_NoDataNotNoRisk_16x9_Native4K.mp4">Watch the explainer</a></p>
+    <p><a class="el-link" href="https://github.com/amobionovo/EvidenceLab/blob/main/lessons/13-no-data-not-no-risk/README.md">Read Lesson 13</a> · <a class="el-link" href="https://www.youtube.com/watch?v=vYiFLvz3ZhM">Watch the explainer on YouTube</a></p>
   </div>
   <img src="https://raw.githubusercontent.com/amobionovo/EvidenceLab/main/lessons/13-no-data-not-no-risk/assets/no_data_not_no_risk_thumbnail.jpg" alt="No Data ≠ No Risk, the EvidenceLab Lesson 13 cover" loading="lazy">
 </section>
