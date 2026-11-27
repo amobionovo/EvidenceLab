@@ -1,0 +1,67 @@
+:root {
+  --el-navy: #004a7c;
+  --el-teal: #00bfa6;
+  --el-ink: #142b3b;
+  --el-surface: #f1f8fa;
+}
+
+body {
+  color: var(--el-ink);
+}
+
+main a:not(.btn) {
+  color: var(--el-navy);
+  text-underline-offset: .18em;
+}
+
+.hero {
+  color: white;
+  background: var(--el-navy);
+  border-bottom: .35rem solid var(--el-teal);
+  border-radius: 1rem;
+  padding: clamp(1.25rem, 6vw, 4rem);
+}
+
+.hero h1 {
+  color: inherit;
+  font-size: clamp(2rem, 5vw, 3.6rem);
+  margin-top: 0;
+}
+
+.hero p {
+  max-width: 54ch;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 1rem;
+  margin-block: 1.5rem;
+}
+
+.feature {
+  padding: 1.15rem;
+  border: 1px solid #c9e0e6;
+  border-radius: .75rem;
+  background: var(--el-surface);
+  overflow-wrap: anywhere;
+}
+
+.feature h2, .feature h3 {
+  margin-top: 0;
+  padding: 0;
+  border: 0;
+  font-size: 1.25rem;
+}
+
+.feature p:last-child {
+  margin-bottom: 0;
+}
+
+.cast-grid img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: .4rem;
+}
+

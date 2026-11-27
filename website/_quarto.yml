@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - beyond-ai-hype/*.qmd
+    - originals/the-ai-office/*.qmd
+  resources:
+    - assets/
+
+website:
+  title: EvidenceLab
+  site-url: https://amobionovo.github.io/EvidenceLab/
+  description: Open lessons in statistics and data science, practical AI commentary, and original animated storytelling.
+  navbar:
+    background: "#004A7C"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: lessons.qmd
+        text: Lessons
+      - href: beyond-ai-hype/index.qmd
+        text: Beyond the AI Hype
+      - href: originals/the-ai-office/index.qmd
+        text: The AI Office
+  page-footer:
+    center: "EvidenceLab · Dr. Amobi Andrew Onovo"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: en
+    toc: false
+
+execute:
+  enabled: false
+
