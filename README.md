@@ -23,9 +23,9 @@ Epidemiology | Data Science | AI for Global Health
 
 Explore empirical Bayesian kriging, sparse surveillance, and the distinction between observed reports and spatial estimates.
 
-[Explore Lesson 13](lessons/13-no-data-not-no-risk/README.md) · [Download the 4K explainer](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk)
+[Explore Lesson 13](lessons/13-no-data-not-no-risk/README.md) · [Watch the explainer on YouTube](https://www.youtube.com/watch?v=vYiFLvz3ZhM) · [Download the 4K explainer](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk)
 
-[![EvidenceLab #13 thumbnail](lessons/13-no-data-not-no-risk/assets/no_data_not_no_risk_thumbnail.jpg)](lessons/13-no-data-not-no-risk/README.md)
+[![EvidenceLab #13 thumbnail](lessons/13-no-data-not-no-risk/assets/no_data_not_no_risk_thumbnail.jpg)](https://www.youtube.com/watch?v=vYiFLvz3ZhM)
 
 ## Lesson 12: Hotspot ≠ Driver
 

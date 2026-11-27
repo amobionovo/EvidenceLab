@@ -81,7 +81,7 @@ Explore statistics, epidemiology, and data science through visual explainers and
 ::: {.feature}
 ### 13. No Data ≠ No Risk
 
-[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/13-no-data-not-no-risk/README.md) · [Download explainer](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk)
+[Read lesson](https://github.com/amobionovo/EvidenceLab/blob/main/lessons/13-no-data-not-no-risk/README.md) · [Watch explainer](https://www.youtube.com/watch?v=vYiFLvz3ZhM) · [Download explainer](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk)
 :::
 :::
 

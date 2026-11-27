@@ -1,12 +1,12 @@
 # EvidenceLab #13 · No Data ≠ No Risk
 
-![EvidenceLab #13 thumbnail](assets/no_data_not_no_risk_thumbnail.jpg)
+[![EvidenceLab #13 thumbnail](assets/no_data_not_no_risk_thumbnail.jpg)](https://www.youtube.com/watch?v=vYiFLvz3ZhM)
 
 Empirical Bayesian kriging estimates spatial patterns between observations. This lesson explains how to interpret those estimates and their uncertainty in sparse surveillance.
 
 ## Watch the explainer
 
-[Download or play the native 4K video](https://github.com/amobionovo/EvidenceLab/releases/download/lesson-13-no-data-not-no-risk/EvidenceLab13_NoDataNotNoRisk_16x9_Native4K.mp4)
+[Watch the explainer on YouTube](https://www.youtube.com/watch?v=vYiFLvz3ZhM) · [Download or play the native 4K video](https://github.com/amobionovo/EvidenceLab/releases/download/lesson-13-no-data-not-no-risk/EvidenceLab13_NoDataNotNoRisk_16x9_Native4K.mp4)
 
 [Release and video download](https://github.com/amobionovo/EvidenceLab/releases/tag/lesson-13-no-data-not-no-risk) · [Captions](captions/EvidenceLab13_NoDataNotNoRisk_16x9.srt) · [Transcript](Transcript.md)
 
