@@ -1,39 +1,108 @@
 ---
-title: "EvidenceLab"
-title-block-style: none
+pagetitle: EvidenceLab
+page-layout: custom
 ---
 
-::: {.hero}
-# See It. Understand It. Run It.
+```{=html}
+<style>
+.el-home { --navy:#071b2b; --ink:#10283a; --blue:#004a7c; --mint:#62e2cb; --paper:#f7f7f2; background:var(--paper); color:var(--ink); font-family:system-ui,sans-serif; }
+.el-home *, .el-home *::before, .el-home *::after { box-sizing:border-box; }
+body:has(.el-home) #quarto-content { max-width:none; padding:0; margin:0; display:block; }
+body:has(.el-home) #quarto-header .navbar { background:var(--navy,#071b2b)!important; }
+.el-wrap { width:min(100% - 2.5rem, 74rem); margin-inline:auto; }
+.el-hero { background: radial-gradient(ellipse at 87% 35%,#114759 0%,transparent 55%),var(--navy); color:white; padding-block:clamp(3rem,7vw,7rem); }
+.el-hero .el-wrap, .el-story, .el-picks { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:clamp(1.75rem,5vw,4.5rem); align-items:center; }
+.el-home h1,.el-home h2,.el-home h3 { margin:0 0 1rem; padding:0; border:0; line-height:1.05; letter-spacing:-.045em; color:inherit; }
+.el-home h1 { font-size:clamp(2.8rem,6vw,5.25rem); font-weight:800; }
+.el-home h1 span { display:block; color:var(--mint); }
+.el-home h2 { font-size:clamp(2rem,4vw,3.7rem); font-weight:760; }
+.el-home h3 { font-size:clamp(1.65rem,3vw,2.6rem); }
+.el-home p { max-width:55ch; line-height:1.65; }
+.el-home .el-kicker { text-transform:uppercase; font-size:.77rem; font-weight:750; letter-spacing:.15em; margin-bottom:.9rem; }
+.el-hero .el-kicker { color:var(--mint); }
+.el-lead { color:#dcecf1; font-size:1.12rem; }
+.el-home a.el-button { display:inline-block; background:var(--mint); color:var(--navy); border-radius:.45rem; padding:.75rem 1rem; font-weight:750; text-decoration:none; }
+.el-home a.el-link { color:var(--blue); font-weight:720; text-underline-offset:.2em; }
+.el-home a.el-button:hover { background:white; }
+.el-home :focus-visible { outline:3px solid #008378; outline-offset:5px; }
+.el-hero :focus-visible { outline-color:var(--mint); }
+.el-demo { padding:clamp(1rem,3vw,1.6rem); border:1px solid #477281; border-radius:1rem; background:#102e40; }
+.el-demo h2 { font-size:clamp(1.4rem,2.5vw,2rem); letter-spacing:-.03em; }
+.el-demo p { color:#dcecf1; font-size:.92rem; margin-bottom:0; }
+.el-switch { display:flex; align-items:center; gap:.55rem; cursor:pointer; margin:1rem 0 .65rem; font-weight:700; }
+.el-switch input { width:1.1rem; height:1.1rem; accent-color:#62e2cb; }
+.el-map { position:relative; overflow:hidden; aspect-ratio:1.75; background-color:#071b2b; border:1px solid #386070; border-radius:.65rem; background-image:linear-gradient(#ffffff1a 1px,transparent 1px),linear-gradient(90deg,#ffffff1a 1px,transparent 1px); background-size:10% 20%; }
+.el-surface { position:absolute; inset:0; opacity:0; background:radial-gradient(ellipse at 25% 34%,#efaf66 0%,#d4634180 18%,transparent 46%),radial-gradient(ellipse at 73% 58%,#68d9c2 0%,#168f9480 26%,transparent 65%); transition:opacity .4s ease; }
+.el-demo:has(input:checked) .el-surface { opacity:.85; }
+.el-point { position:absolute; left:var(--x); top:var(--y); width:.55rem; height:.55rem; transform:translate(-50%,-50%); background:white; border:1px solid #173748; border-radius:50%; box-shadow:0 0 0 2px #ffffff45; }
+.el-estimate-key,.el-estimate-caption { display:none; }
+.el-demo:has(input:checked) :is(.el-estimate-key,.el-estimate-caption) { display:inline; }
+.el-demo:has(input:checked) .el-observed-caption { display:none; }
+.el-key { display:flex; flex-wrap:wrap; gap:.35rem 1rem; }
+.el-story { padding-block:clamp(2.5rem,6vw,5.5rem); }
+.el-home img { display:block; width:100%; height:auto; border-radius:.65rem; }
+.el-picks { align-items:stretch; gap:1.5rem; padding-bottom:clamp(2.5rem,6vw,5rem); }
+.el-pick { padding:clamp(1.25rem,4vw,2.35rem); background:white; border:1px solid #d7e1df; border-radius:.9rem; }
+.el-pick.el-office { background:var(--navy); color:white; border-color:var(--navy); }
+.el-office img { margin-bottom:1.25rem; }
+.el-office a.el-link { color:var(--mint); }
+@media(max-width:48rem){ .el-hero .el-wrap,.el-story,.el-picks { grid-template-columns:minmax(0,1fr); } }
+@media(prefers-reduced-motion:reduce){ .el-surface { transition:none; } }
+</style>
 
-Learn how to interpret evidence and put it to work. Explore open lessons in statistics and data science, practical perspectives on AI, and an original workplace comedy.
+<div class="el-home" role="main">
+<section class="el-hero">
+  <div class="el-wrap">
+    <div>
+      <p class="el-kicker">EvidenceLab</p>
+      <h1>See It. Understand It. <span>Run It.</span></h1>
+      <p class="el-lead">Explore statistics, data science, and public health through visual explainers and notebooks you can run yourself.</p>
+      <a class="el-button" href="lessons.html">Explore the lessons</a>
+    </div>
+    <section class="el-demo" aria-labelledby="el-demo-title">
+      <h2 id="el-demo-title">What happens between reports?</h2>
+      <label class="el-switch"><input type="checkbox" aria-describedby="el-demo-note"> Show illustrative estimates</label>
+      <div class="el-map" aria-hidden="true">
+        <div class="el-surface"></div>
+        <i class="el-point" style="--x:13%;--y:65%"></i>
+        <i class="el-point" style="--x:20%;--y:26%"></i>
+        <i class="el-point" style="--x:28%;--y:39%"></i>
+        <i class="el-point" style="--x:38%;--y:57%"></i>
+        <i class="el-point" style="--x:59%;--y:31%"></i>
+        <i class="el-point" style="--x:70%;--y:58%"></i>
+        <i class="el-point" style="--x:80%;--y:70%"></i>
+        <i class="el-point" style="--x:89%;--y:37%"></i>
+      </div>
+      <p class="el-key"><span>● Report locations</span><span class="el-estimate-key">◐ Illustrative estimate surface</span></p>
+      <p id="el-demo-note"><span class="el-observed-caption">Reports describe the places where measurements were made.</span><span class="el-estimate-caption">A surface fills the space between measurements. Those areas still carry uncertainty.</span> This is a teaching illustration.</p>
+    </section>
+  </div>
+</section>
 
-[Explore the lessons](lessons.qmd){.btn .btn-light}
-:::
+<section class="el-wrap el-story" aria-labelledby="el-story-title">
+  <div>
+    <p class="el-kicker">Featured lesson · 13</p>
+    <h2 id="el-story-title">No Data ≠ No Risk</h2>
+    <p>How do we interpret risk when surveillance data are sparse? Explore what empirical Bayesian kriging can estimate between observations and why the uncertainty matters.</p>
+    <p><a class="el-link" href="https://github.com/amobionovo/EvidenceLab/blob/main/lessons/13-no-data-not-no-risk/README.md">Read Lesson 13</a> · <a class="el-link" href="https://github.com/amobionovo/EvidenceLab/releases/download/lesson-13-no-data-not-no-risk/EvidenceLab13_NoDataNotNoRisk_16x9_Native4K.mp4">Watch the explainer</a></p>
+  </div>
+  <img src="https://raw.githubusercontent.com/amobionovo/EvidenceLab/main/lessons/13-no-data-not-no-risk/assets/no_data_not_no_risk_thumbnail.jpg" alt="No Data ≠ No Risk, the EvidenceLab Lesson 13 cover" loading="lazy">
+</section>
 
-::: {.feature-grid}
-::: {.feature}
-## EvidenceLab Lessons
-
-Visual explainers and reproducible notebooks on statistics, epidemiology, and data science.
-
-[Browse all 13 lessons](lessons.qmd)
-:::
-
-::: {.feature}
-## Beyond the AI Hype
-
-What really matters when organizations use AI to make decisions?
-
-[Read the series](beyond-ai-hype/index.qmd)
-:::
-
-::: {.feature}
-## The AI Office
-
-A workplace comedy about AI, data, and real-world decisions.
-
-[Meet the cast](originals/the-ai-office/index.qmd)
-:::
-:::
+<div class="el-wrap el-picks">
+  <article class="el-pick">
+    <h3>Beyond the AI Hype</h3>
+    <p class="el-kicker">Automation ≠ Transformation</p>
+    <p>What changes when AI speeds up a broken process? Start with the first essay in the series.</p>
+    <a class="el-link" href="beyond-ai-hype/index.html">Read the series</a>
+  </article>
+  <article class="el-pick el-office">
+    <img src="assets/ai-office-approved-cast.png" alt="The four approved AI Office characters, Mr. Biggs, B.O.T., Ada, and Dr. Insight" width="1672" height="941" loading="lazy">
+    <h3>The AI Office</h3>
+    <p>A workplace comedy about AI, data, and real-world decisions.</p>
+    <a class="el-link" href="originals/the-ai-office/index.html">Meet the cast</a>
+  </article>
+</div>
+</div>
+```
 
