@@ -10,7 +10,7 @@ page-layout: custom
 body:has(.el-home) #quarto-content { max-width:none; padding:0; margin:0; display:block; }
 body:has(.el-home) #quarto-header .navbar { background:var(--navy,#071b2b)!important; }
 .el-wrap { width:min(100% - 2.5rem, 74rem); margin-inline:auto; }
-.el-hero { background: radial-gradient(ellipse at 87% 35%,#114759 0%,transparent 55%),var(--navy); color:white; padding-block:clamp(1.25rem,3vw,2.75rem); }
+.el-hero { background: radial-gradient(ellipse at 87% 35%,#114759 0%,transparent 55%),var(--navy); color:white; padding-block:clamp(1rem,2.5vw,2rem); }
 .el-story, .el-picks { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:clamp(1.75rem,5vw,4.5rem); align-items:center; }
 .el-home h1,.el-home h2,.el-home h3 { margin:0 0 1rem; padding:0; border:0; line-height:1.05; letter-spacing:-.045em; color:inherit; }
 .el-home h1 { font-size:clamp(2.8rem,6vw,5.25rem); font-weight:800; }
@@ -26,7 +26,7 @@ body:has(.el-home) #quarto-header .navbar { background:var(--navy,#071b2b)!impor
 .el-home a.el-button:hover { background:white; }
 .el-home :focus-visible { outline:3px solid #008378; outline-offset:5px; }
 .el-hero :focus-visible { outline-color:var(--mint); }
-.el-story { padding-block:clamp(2.5rem,6vw,5.5rem); }
+.el-story { padding-block:clamp(1.5rem,4vw,3.25rem); }
 .el-home img { display:block; width:100%; height:auto; border-radius:.65rem; }
 .el-picks { align-items:stretch; gap:1.5rem; padding-bottom:clamp(2.5rem,6vw,5rem); }
 .el-pick { padding:clamp(1.25rem,4vw,2.35rem); background:white; border:1px solid #d7e1df; border-radius:.9rem; }
@@ -42,6 +42,10 @@ body:has(.el-home) #quarto-header .navbar { background:var(--navy,#071b2b)!impor
 .walkthrough-question{margin:0;padding:10px 14px 0;max-width:none;color:#dcecf1}
 @media(max-width:740px){.stage{grid-template-columns:1fr;padding:12px}.card{padding:16px}}
 }
+ .el-hero details.el-walkthrough { margin-top: 1rem; }
+.el-walkthrough summary { width: fit-content; max-width: 100%; padding: .65rem .9rem; border: 1px solid #547989; border-radius: .5rem; background: #102c3c; color: #f7fbff; font-weight: 700; cursor: pointer; }
+.el-walkthrough summary::marker { color: var(--mint); }
+.el-walkthrough summary:hover { border-color: var(--mint); }
 </style>
 
 <div class="el-home" role="main">
@@ -53,6 +57,8 @@ body:has(.el-home) #quarto-header .navbar { background:var(--navy,#071b2b)!impor
       <p class="el-lead">Explore statistics, data science, and public health through visual explainers and notebooks you can run yourself.</p>
       <a class="el-button" href="lessons.html">Explore the lessons</a>
     </div>
+    <details class="el-walkthrough">
+      <summary>Try the interactive walkthrough</summary>
     <section class="lab" aria-label="Interactive walkthrough">
 <p class="walkthrough-question">Three clinics report different rates. What would you estimate for a community in between?</p><nav class="steps" aria-label="Walkthrough steps"><button data-step="0" aria-pressed="true">See it</button><button data-step="1" aria-pressed="false">Understand it</button><button data-step="2" aria-pressed="false">Run it</button></nav>
 <div class="stage"><svg viewBox="0 0 620 324" role="img" aria-labelledby="diagram-title diagram-description">
@@ -114,6 +120,7 @@ get("strength").addEventListener("input",()=>{get("strength-value").textContent=
 get("simulate").addEventListener("click",()=>{const estimate=draw(true);get("result").hidden=false;get("result").textContent="Estimated rate: "+estimate+" per 100."});
 showStep(0);
 })();</script>
+    </details>
   </div>
 </section>
 
@@ -143,5 +150,6 @@ showStep(0);
 </div>
 </div>
 ```
+
 
 
